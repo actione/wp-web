@@ -15,10 +15,26 @@
         <nav class="main-navigation">
           <ul>
             <li <?php if (is_page('about-us') or wp_get_post_parent_id(0) == 16) echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/about-us') ?>">个人空间</a></li>
-            <li <?php if (get_post_type() == 'program') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('program') ?>">机器学习</a></li>
+            <li <?php if (get_post_type() == 'program') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('program') ?>">机器学习</a>
+              <ul>
+                <li><a href="#">张量</a></li>
+              </ul>
+            </li>
             <li <?php if (get_post_type() == 'event' OR is_page('past-events')) echo 'class="current-menu-item"';  ?>><a href="<?php echo get_post_type_archive_link('event'); ?>">后台开发</a></li>
             <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">游戏开发</a></li>
-            <li <?php if (get_post_type() == 'post') echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/blog'); ?>">博客</a></li>
+            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">编程语言</a>
+              <ul>
+                <li><a href="#">C/C++</a></li>
+                <li><a href="#">Go</a></li>
+                <li><a href="#">Python</a></li>
+                <li><a href="#">C#</a></li>
+                <li><a href="#">Shell</a></li>
+                <li><a href="#">CUDA</a></li>
+              </ul>
+            </li>
+            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">测试</a></li>
+            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">算法与数据结构</a></li>
+            <li <?php if (get_post_type() == 'post') echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/blog'); ?>">我的博客</a></li>
           </ul>
         </nav>
         <div class="site-header__util">
