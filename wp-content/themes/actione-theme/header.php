@@ -18,10 +18,23 @@
             <li <?php if (get_post_type() == 'program') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('program') ?>">机器学习</a>
               <ul>
                 <li><a href="#">张量</a></li>
+                <li><a href="#">传统算法</a></li>
+                <li><a href="#">神经网络</a></li>
               </ul>
             </li>
-            <li <?php if (get_post_type() == 'event' OR is_page('past-events')) echo 'class="current-menu-item"';  ?>><a href="<?php echo get_post_type_archive_link('event'); ?>">后台开发</a></li>
-            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">游戏开发</a></li>
+            <li <?php if (get_post_type() == 'event' OR is_page('past-events')) echo 'class="current-menu-item"';  ?>><a href="<?php echo get_post_type_archive_link('event'); ?>">后台开发</a>
+              <ul>
+                <li><a href="#">网络</a></li>
+                <li><a href="#">Linux</a></li>
+                <li><a href="#">数据库</a></li>
+              </ul>
+            </li>
+            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">游戏开发</a>
+              <ul>
+                <li><a href="#">服务器</a></li>
+                <li><a href="#">客户端</a></li>
+              </ul>
+            </li>
             <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">编程语言</a>
               <ul>
                 <li><a href="#">C/C++</a></li>
