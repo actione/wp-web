@@ -13,7 +13,7 @@
       <i class="site-header__menu-trigger fa fa-bars" aria-hidden="true"></i>
       <div class="site-header__menu group">
         <nav class="main-navigation">
-          <ul>
+          <ul id="menu">
             <li <?php if (is_page('个人空间')) echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/个人空间') ?>">个人空间</a></li>
             <li <?php if (get_post_type() == 'program') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('program') ?>">机器学习</a>
               <ul>
