@@ -2,8 +2,8 @@
 
 get_header();
 pageBanner(array(
-  'title' => 'Welcome to our blog!',
-  'subtitle' => 'Keep up with our latest news.'
+  'title' => 'Welcome to my blog!',
+  'subtitle' => 'Keep up with my latest news.'
 ));
  ?>
 <div class="container container--narrow page-section">
