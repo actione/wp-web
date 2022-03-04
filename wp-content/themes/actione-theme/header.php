@@ -27,12 +27,15 @@
                 <li><a href="#">网络</a></li>
                 <li><a href="#">Linux</a></li>
                 <li><a href="#">数据库</a></li>
+                <li><a href="#">分布式</a></li>
+                <li><a href="#">容器</a></li>
               </ul>
             </li>
             <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">游戏开发</a>
               <ul>
                 <li><a href="#">服务器</a></li>
                 <li><a href="#">客户端</a></li>
+                <li><a href="#">美术</a></li>
               </ul>
             </li>
             <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">编程语言</a>
@@ -43,10 +46,24 @@
                 <li><a href="#">C#</a></li>
                 <li><a href="#">Shell</a></li>
                 <li><a href="#">CUDA</a></li>
+                <li><a href="#">QT</a></li>
               </ul>
             </li>
-            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">自动化测试</a></li>
+            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">自动化测试</a>
+              <ul>
+                <li><a href="#">单元测试</a></li>
+                <li><a href="#">自动化</a></li>
+              </ul>
+            </li>
             <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">算法与数据结构</a></li>
+            <li><a href="#">工具</a>
+              <ul>
+                <li><a href="#">版本控制工具</a></li>
+                <li><a href="#">覆盖率工具</a></li>
+                <li><a href="#">内存检测工具</a></li>
+                <li><a href="#">抓包工具</a></li>
+              </ul>
+            </li>
             <li <?php if (get_post_type() == 'post') echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/blog'); ?>">我的博客</a></li>
           </ul>
         </nav>
