@@ -15,53 +15,55 @@
         <nav class="main-navigation">
           <ul id="menu">
             <li <?php if (is_page('个人空间')) echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/个人空间') ?>">个人空间</a></li>
-            <li <?php if (get_post_type() == 'program') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('program') ?>">机器学习</a>
+            <li> <a href="#">机器学习</a>
               <ul>
-                <li><a href="#">张量</a></li>
-                <li><a href="#">传统算法</a></li>
-                <li><a href="#">神经网络</a></li>
+                <li><a href="<?php echo site_url('/张量') ?>">张量</a></li>
+                <li><a href="<?php echo site_url('/传统算法') ?>">传统算法</a></li>
+                <li><a href="<?php echo site_url('/神经网络') ?>">神经网络</a></li>
               </ul>
             </li>
-            <li <?php if (get_post_type() == 'event' OR is_page('past-events')) echo 'class="current-menu-item"';  ?>><a href="<?php echo get_post_type_archive_link('event'); ?>">后台开发</a>
+            <li><a href="#">后台开发</a>
               <ul>
-                <li><a href="#">网络</a></li>
-                <li><a href="#">Linux</a></li>
-                <li><a href="#">数据库</a></li>
-                <li><a href="#">分布式</a></li>
-                <li><a href="#">容器</a></li>
+                <li><a href="<?php echo site_url('/网络') ?>">网络</a></li>
+                <li><a href="<?php echo site_url('/Linux') ?>">Linux</a></li>
+                <li><a href="<?php echo site_url('/数据库') ?>">数据库</a></li>
+                <li><a href="<?php echo site_url('/分布式') ?>">分布式</a></li>
               </ul>
             </li>
-            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">游戏开发</a>
+            <li><a>游戏开发</a>
               <ul>
-                <li><a href="#">服务器</a></li>
-                <li><a href="#">客户端</a></li>
-                <li><a href="#">美术</a></li>
+                <li><a href="<?php echo site_url('/服务器') ?>">服务器</a></li>
+                <li><a href="<?php echo site_url('/客户端') ?>">客户端</a></li>
+                <li><a href="<?php echo site_url('/美术') ?>">美术</a></li>
+                <li><a href="<?php echo site_url('/引擎') ?>">引擎</a></li>
               </ul>
             </li>
-            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">编程语言</a>
+            <li><a>编程语言</a>
               <ul>
-                <li><a href="#">C/C++</a></li>
-                <li><a href="#">Go</a></li>
-                <li><a href="#">Python</a></li>
-                <li><a href="#">C#</a></li>
-                <li><a href="#">Shell</a></li>
-                <li><a href="#">CUDA</a></li>
-                <li><a href="#">QT</a></li>
+                <li><a href="<?php echo site_url('/C/C++') ?>">C/C++</a></li>
+                <li><a href="<?php echo site_url('/Go') ?>">Go</a></li>
+                <li><a href="<?php echo site_url('/Python') ?>">Python</a></li>
+                <li><a href="<?php echo site_url('/C#') ?>">C#</a></li>
+                <li><a href="<?php echo site_url('/Shell') ?>">Shell</a></li>
+                <li><a href="<?php echo site_url('/CUDA') ?>">CUDA</a></li>
+                <li><a href="<?php echo site_url('/QT') ?>">QT</a></li>
               </ul>
             </li>
             <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">自动化测试</a>
               <ul>
-                <li><a href="#">单元测试</a></li>
-                <li><a href="#">自动化</a></li>
+                <li><a href="<?php echo site_url('/单元测试') ?>">单元测试</a></li>
+                <li><a href="<?php echo site_url('/自动化') ?>">自动化</a></li>
               </ul>
             </li>
-            <li <?php if (get_post_type() == 'campus') echo 'class="current-menu-item"' ?>><a href="<?php echo get_post_type_archive_link('campus'); ?>">算法与数据结构</a></li>
+            <li><a href="<?php echo site_url('/算法与数据结构') ?>">算法与数据结构</a></li>
             <li><a href="#">工具</a>
               <ul>
-                <li><a href="#">版本控制工具</a></li>
-                <li><a href="#">覆盖率工具</a></li>
-                <li><a href="#">内存检测工具</a></li>
-                <li><a href="#">抓包工具</a></li>
+                <li><a href="<?php echo site_url('/版本控制工具') ?>">版本控制工具</a></li>
+                <li><a href="<?php echo site_url('/覆盖率工具') ?>">覆盖率工具</a></li>
+                <li><a href="<?php echo site_url('/内存检测工具') ?>">内存检测工具</a></li>
+                <li><a href="<?php echo site_url('/抓包工具') ?>">抓包工具</a></li>
+                <li><a href="<?php echo site_url('/容器') ?>">容器</a></li>
+                <li><a href="<?php echo site_url('/Anaconda') ?>">Anaconda</a></li>
               </ul>
             </li>
             <li <?php if (get_post_type() == 'post') echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/blog'); ?>">我的博客</a></li>
