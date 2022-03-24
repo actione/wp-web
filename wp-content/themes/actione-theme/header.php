@@ -17,7 +17,7 @@
             <li <?php if (is_page('个人空间')) echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/个人空间') ?>">个人空间</a></li>
             <li> <a href="#">机器学习</a>
               <ul>
-                <li><a href="<?php echo site_url('/张量') ?>">张量</a></li>
+                <li><a href="<?php echo site_url('/tensor') ?>">张量</a></li>
                 <li><a href="<?php echo site_url('/传统算法') ?>">传统算法</a></li>
                 <li><a href="<?php echo site_url('/神经网络') ?>">神经网络</a></li>
               </ul>
@@ -40,7 +40,7 @@
             </li>
             <li><a>编程语言</a>
               <ul>
-                <li><a href="<?php echo site_url('/C/C++') ?>">C/C++</a></li>
+                <li><a href="<?php echo site_url('/c-c') ?>">C/C++</a></li>
                 <li><a href="<?php echo site_url('/Go') ?>">Go</a></li>
                 <li><a href="<?php echo site_url('/Python') ?>">Python</a></li>
                 <li><a href="<?php echo site_url('/C#') ?>">C#</a></li>
@@ -55,7 +55,11 @@
                 <li><a href="<?php echo site_url('/自动化') ?>">自动化</a></li>
               </ul>
             </li>
-            <li><a href="<?php echo site_url('/算法与数据结构') ?>">算法与数据结构</a></li>
+            <li><a href="<?php echo site_url('/算法与数据结构') ?>">算法与数据结构</a>
+              <ul>
+                <li><a href="<?php echo site_url('/图论') ?>">图论</a></li>
+              </ul>
+            </li>
             <li><a href="#">工具</a>
               <ul>
                 <li><a href="<?php echo site_url('/版本控制工具') ?>">版本控制工具</a></li>
