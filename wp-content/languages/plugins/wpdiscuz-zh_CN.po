@@ -1,0 +1,3972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpDiscuz\n"
+"POT-Creation-Date: 2020-03-01 13:18+0800\n"
+"PO-Revision-Date: 2020-03-03 12:56+0800\n"
+"Last-Translator: WordPress大学 <<support@wpdaxue.com>>\n"
+"Language-Team: WordPress大学 <support@wpdaxue.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: class.WpdiscuzCore.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class.WpdiscuzCore.php:265
+msgid "Every 3 hours"
+msgstr "每3小时"
+
+#: class.WpdiscuzCore.php:269
+msgid "Every 48 hours"
+msgstr "每48小时"
+
+#: class.WpdiscuzCore.php:371
+msgid "We are sorry, but this comment cannot be posted. Please try later."
+msgstr "很抱歉，此评论无法发布，请稍后再试。"
+
+#: class.WpdiscuzCore.php:381
+msgid "We are sorry, you are not allowed to comment more than one time!"
+msgstr "很抱歉，您不能多次发表评论！"
+
+#: class.WpdiscuzCore.php:443
+msgid "This is closed comment thread"
+msgstr "这是关闭的评论对话"
+
+#: class.WpdiscuzCore.php:1022 class.WpdiscuzCore.php:1258
+msgid "Settings"
+msgstr "设置"
+
+#: class.WpdiscuzCore.php:1024 class.WpdiscuzCore.php:1260
+msgid "Phrases"
+msgstr "短语"
+
+#: class.WpdiscuzCore.php:1026
+msgid "Tools"
+msgstr "工具"
+
+#: class.WpdiscuzCore.php:1027 options/html-options.php:22
+#: options/html-options.php:64 options/options-layouts/settings-addons.php:14
+msgid "Addons"
+msgstr "扩展"
+
+#: class.WpdiscuzCore.php:1040
+msgid "Do you really want to reset all options?"
+msgstr "你真的想重置所有选项吗？"
+
+#: class.WpdiscuzCore.php:1041
+msgid "Do you really want to remove voting data?"
+msgstr "你真的想删除投票数据吗？"
+
+#: class.WpdiscuzCore.php:1042
+msgid "Do you really want to reset phrases?"
+msgstr "你真的想重置短语吗？"
+
+#: class.WpdiscuzCore.php:1043
+msgid "Do you really want to delete gravatars cache?"
+msgstr "你真的想删除头像缓存吗？"
+
+#: class.WpdiscuzCore.php:1044
+msgid "Do you really want to delete statistics cache?"
+msgstr "你真的想删除统计缓存吗？"
+
+#: class.WpdiscuzCore.php:1080
+msgid "Please check one of reasons before sending feedback!"
+msgstr "请在发送反馈之前查看其中一个原因！"
+
+#: class.WpdiscuzCore.php:1081 utils/deactivation-reason-modal.php:58
+msgid "Please provide more information"
+msgstr "请提供更多信息"
+
+#: class.WpdiscuzCore.php:1362 options/phrases-layouts/phrases-comment.php:56
+msgid "Admin"
+msgstr "管理员"
+
+#: class.WpdiscuzCore.php:1364 class.WpdiscuzCore.php:1373
+#: options/phrases-layouts/phrases-comment.php:58
+msgid "Author"
+msgstr "作者"
+
+#: class.WpdiscuzCore.php:1366 options/phrases-layouts/phrases-comment.php:60
+msgid "Editor"
+msgstr "编辑"
+
+#: class.WpdiscuzCore.php:1368 options/phrases-layouts/phrases-comment.php:64
+msgid "Member"
+msgstr "成员"
+
+#: class.WpdiscuzCore.php:1374 options/phrases-layouts/phrases-comment.php:62
+msgid "Guest"
+msgstr "游客"
+
+#: forms/wpDiscuzForm.php:107
+msgid "Invalid Data !!!"
+msgstr "数据无效！"
+
+#: forms/wpDiscuzForm.php:115 forms/wpDiscuzForm.php:163
+msgid "Forms"
+msgstr "表单"
+
+#: forms/wpDiscuzForm.php:116 options/html-phrases.php:22
+msgid "Form"
+msgstr "表单"
+
+#: forms/wpDiscuzForm.php:117
+msgid "Add New"
+msgstr "新建"
+
+#: forms/wpDiscuzForm.php:118
+msgid "Add New Form"
+msgstr "添加表单"
+
+#: forms/wpDiscuzForm.php:119
+msgid "Edit Form"
+msgstr "编辑表单"
+
+#: forms/wpDiscuzForm.php:120
+msgid "You did not create any forms yet"
+msgstr "您尚未创建任何表单"
+
+#: forms/wpDiscuzForm.php:121
+msgid "Nothing found in Trash"
+msgstr "回收站中未找到"
+
+#: forms/wpDiscuzForm.php:122
+msgid "Search Forms"
+msgstr "搜索表单"
+
+#: forms/wpDiscuzForm.php:177
+msgid "Title"
+msgstr "标签"
+
+#: forms/wpDiscuzForm.php:178
+msgid "Post Types"
+msgstr "文章类型"
+
+#: forms/wpDiscuzForm.php:179
+msgid "Post IDs"
+msgstr "文章 IDs"
+
+#: forms/wpDiscuzForm.php:180 forms/wpdFormAttr/Form.php:697
+msgid "Language"
+msgstr "语言"
+
+#: forms/wpDiscuzForm.php:181
+msgid "Date"
+msgstr "日期"
+
+#: forms/wpDiscuzForm.php:226
+msgid "Field Types"
+msgstr "字段类型"
+
+#: forms/wpDiscuzForm.php:227 forms/wpdFormAttr/Row.php:23
+msgid "Two column"
+msgstr "二列"
+
+#: forms/wpDiscuzForm.php:228 forms/wpdFormAttr/Field/Field.php:73
+#: forms/wpdFormAttr/Row.php:24
+msgid "Delete"
+msgstr "删除"
+
+#: forms/wpDiscuzForm.php:229 forms/wpdFormAttr/Row.php:25
+msgid "Move"
+msgstr "移动"
+
+#: forms/wpDiscuzForm.php:230 forms/wpdFormAttr/Row.php:73
+msgid "Add Field"
+msgstr "添加字段"
+
+#: forms/wpDiscuzForm.php:231 forms/wpdFormAttr/Field/Field.php:70
+#: options/class.WpdiscuzOptionsSerialized.php:825
+#: options/phrases-layouts/phrases-comment.php:19
+msgid "Edit"
+msgstr "编辑"
+
+#: forms/wpDiscuzForm.php:232
+msgid "You can not delete default field."
+msgstr "您不能删除默认字段。"
+
+#: forms/wpDiscuzForm.php:233
+msgid "You really want to delete this item ?"
+msgstr "你真的想删除这个项目吗？"
+
+#: forms/wpDiscuzForm.php:240
+msgid "Permission Denied !!!"
+msgstr "没有权限！"
+
+#: forms/wpDiscuzForm.php:265 forms/wpdFormAttr/Form.php:662
+#: forms/wpdFormAttr/html/admin-form-fields-list.php:18
+#: options/options-layouts/settings-customfields.php:7
+msgid "Custom Fields"
+msgstr "自定义字段"
+
+#: forms/wpDiscuzForm.php:313
+msgid "Custom CSS"
+msgstr "自定义 CSS"
+
+#: forms/wpDiscuzForm.php:369
+msgid "Default Form"
+msgstr "默认表单"
+
+#: forms/wpDiscuzForm.php:402 forms/wpDiscuzForm.php:410
+#: forms/wpdFormAttr/Form.php:778 forms/wpdFormAttr/Form.php:779
+msgid "Leave a Reply"
+msgstr "说点什么"
+
+#: forms/wpDiscuzForm.php:425 forms/wpdFormAttr/Field/AgreementCheckbox.php:12
+#: forms/wpdFormAttr/Field/CheckboxField.php:12
+#: forms/wpdFormAttr/Field/ColorField.php:12
+#: forms/wpdFormAttr/Field/CookiesConsent.php:14
+#: forms/wpdFormAttr/Field/DateField.php:12
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:27
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:19
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:18
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:65
+#: forms/wpdFormAttr/Field/DefaultField/Submit.php:18
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:18
+#: forms/wpdFormAttr/Field/HTMLField.php:12
+#: forms/wpdFormAttr/Field/NumberField.php:12
+#: forms/wpdFormAttr/Field/RadioField.php:12
+#: forms/wpdFormAttr/Field/RatingField.php:12
+#: forms/wpdFormAttr/Field/SelectField.php:12
+#: forms/wpdFormAttr/Field/TextAreaField.php:13
+#: forms/wpdFormAttr/Field/TextField.php:12
+#: forms/wpdFormAttr/Field/UrlField.php:12 forms/wpdFormAttr/Form.php:903
+msgid "Name"
+msgstr "名字"
+
+#: forms/wpDiscuzForm.php:427 forms/wpdFormAttr/Field/DefaultField/Email.php:65
+#: forms/wpdFormAttr/Form.php:910
+#: options/class.WpdiscuzOptionsSerialized.php:811 options/html-phrases.php:25
+msgid "Email"
+msgstr "邮箱"
+
+#: forms/wpDiscuzForm.php:429
+msgid "WebSite URL"
+msgstr "站点"
+
+#: forms/wpDiscuzForm.php:432
+#: forms/wpdFormAttr/Field/DefaultField/Submit.php:116
+#: forms/wpdFormAttr/Form.php:933
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: forms/wpDiscuzForm.php:441
+msgid "Clone Form"
+msgstr "克隆表单"
+
+#: forms/wpDiscuzForm.php:453
+msgid "Clone"
+msgstr "克隆"
+
+#: forms/wpDiscuzForm.php:491
+msgid ""
+"Comment Form is not detected, please navigate to form manager page to create "
+"it. "
+msgstr "未检测到评论表单，请导航至表单管理器页面以创建它。"
+
+#: forms/wpDiscuzForm.php:492
+msgid "Add Comment Form"
+msgstr "添加评论表单"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:16
+#: forms/wpdFormAttr/Field/CheckboxField.php:17
+#: forms/wpdFormAttr/Field/ColorField.php:17
+#: forms/wpdFormAttr/Field/CookiesConsent.php:18
+#: forms/wpdFormAttr/Field/DateField.php:17
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:32
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:24
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:23
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:23
+#: forms/wpdFormAttr/Field/NumberField.php:17
+#: forms/wpdFormAttr/Field/RadioField.php:17
+#: forms/wpdFormAttr/Field/RatingField.php:16
+#: forms/wpdFormAttr/Field/SelectField.php:17
+#: forms/wpdFormAttr/Field/TextAreaField.php:18
+#: forms/wpdFormAttr/Field/TextField.php:17
+#: forms/wpdFormAttr/Field/UrlField.php:17
+msgid "Description"
+msgstr "描述"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:18
+#: forms/wpdFormAttr/Field/CheckboxField.php:19
+#: forms/wpdFormAttr/Field/ColorField.php:19
+#: forms/wpdFormAttr/Field/CookiesConsent.php:20
+#: forms/wpdFormAttr/Field/DateField.php:19
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:34
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:26
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:25
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:25
+#: forms/wpdFormAttr/Field/NumberField.php:19
+#: forms/wpdFormAttr/Field/NumberField.php:24
+#: forms/wpdFormAttr/Field/NumberField.php:29
+#: forms/wpdFormAttr/Field/RadioField.php:19
+#: forms/wpdFormAttr/Field/RatingField.php:18
+#: forms/wpdFormAttr/Field/SelectField.php:19
+#: forms/wpdFormAttr/Field/TextAreaField.php:20
+#: forms/wpdFormAttr/Field/TextField.php:19
+#: forms/wpdFormAttr/Field/UrlField.php:19
+msgid ""
+"Field specific short description or some rule related to inserted "
+"information."
+msgstr "字段特定的简短描述或与插入的信息相关的一些规则。"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:21
+#: forms/wpdFormAttr/Field/CookiesConsent.php:23
+msgid "Checkbox Label"
+msgstr "复选框标签文本"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:22
+msgid ""
+"You can use HTML tags to add links to website Terms and Privacy Policy "
+"pages. For example: "
+msgstr "您可以使用HTML标记添加指向网站条款和隐私政策页面的链接。 例如： "
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:28
+#: forms/wpdFormAttr/Field/CheckboxField.php:33
+#: forms/wpdFormAttr/Field/ColorField.php:29
+#: forms/wpdFormAttr/Field/DateField.php:29
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:36
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:35
+#: forms/wpdFormAttr/Field/NumberField.php:39
+#: forms/wpdFormAttr/Field/RadioField.php:33
+#: forms/wpdFormAttr/Field/RatingField.php:28
+#: forms/wpdFormAttr/Field/SelectField.php:33
+#: forms/wpdFormAttr/Field/TextAreaField.php:23
+#: forms/wpdFormAttr/Field/TextField.php:29
+#: forms/wpdFormAttr/Field/UrlField.php:29
+msgid "Field is required"
+msgstr "必填字段"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:32
+#: forms/wpdFormAttr/Field/CheckboxField.php:37
+#: forms/wpdFormAttr/Field/ColorField.php:33
+#: forms/wpdFormAttr/Field/DateField.php:33
+#: forms/wpdFormAttr/Field/HTMLField.php:21
+#: forms/wpdFormAttr/Field/NumberField.php:43
+#: forms/wpdFormAttr/Field/RadioField.php:37
+#: forms/wpdFormAttr/Field/SelectField.php:37
+#: forms/wpdFormAttr/Field/TextAreaField.php:27
+#: forms/wpdFormAttr/Field/TextField.php:33
+#: forms/wpdFormAttr/Field/UrlField.php:33
+msgid "Display on reply form"
+msgstr "在回复表单上显示"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:36
+msgid "Display for Guests"
+msgstr "为游客显示"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:40
+msgid "Display for Registered Users"
+msgstr "为已注册用户显示"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:44
+msgid "Don't show again if the agreement is accepted once"
+msgstr "如果一旦接受协议，请勿再次显示"
+
+#: forms/wpdFormAttr/Field/AgreementCheckbox.php:101
+#: forms/wpdFormAttr/Field/CheckboxField.php:150
+#: forms/wpdFormAttr/Field/ColorField.php:112
+#: forms/wpdFormAttr/Field/DateField.php:112
+#: forms/wpdFormAttr/Field/NumberField.php:122
+#: forms/wpdFormAttr/Field/RadioField.php:127
+#: forms/wpdFormAttr/Field/RatingField.php:123
+#: forms/wpdFormAttr/Field/SelectField.php:122
+#: forms/wpdFormAttr/Field/TextAreaField.php:95
+#: forms/wpdFormAttr/Field/TextField.php:107
+#: forms/wpdFormAttr/Field/UrlField.php:110
+msgid "field is required!"
+msgstr "字段是必需的！"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:14
+#: forms/wpdFormAttr/Field/ColorField.php:14
+#: forms/wpdFormAttr/Field/DateField.php:14
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:29
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:21
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:20
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:20
+#: forms/wpdFormAttr/Field/NumberField.php:14
+#: forms/wpdFormAttr/Field/RadioField.php:14
+#: forms/wpdFormAttr/Field/SelectField.php:14
+#: forms/wpdFormAttr/Field/TextAreaField.php:15
+#: forms/wpdFormAttr/Field/TextField.php:14
+#: forms/wpdFormAttr/Field/UrlField.php:14
+msgid "Also used for field placeholder"
+msgstr "也用于字段占位符"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:28
+#: forms/wpdFormAttr/Field/RadioField.php:28
+#: forms/wpdFormAttr/Field/SelectField.php:28
+msgid "Values"
+msgstr "值"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:30
+msgid "Please insert one value per line"
+msgstr "请每行插入一个值"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:41
+#: forms/wpdFormAttr/Field/ColorField.php:37
+#: forms/wpdFormAttr/Field/DateField.php:37
+#: forms/wpdFormAttr/Field/NumberField.php:47
+#: forms/wpdFormAttr/Field/RadioField.php:41
+#: forms/wpdFormAttr/Field/RatingField.php:32
+#: forms/wpdFormAttr/Field/SelectField.php:41
+#: forms/wpdFormAttr/Field/TextAreaField.php:31
+#: forms/wpdFormAttr/Field/TextField.php:37
+#: forms/wpdFormAttr/Field/UrlField.php:37
+msgid "Display on comment"
+msgstr "在评论显示"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:45
+#: forms/wpdFormAttr/Field/ColorField.php:41
+#: forms/wpdFormAttr/Field/DateField.php:41
+#: forms/wpdFormAttr/Field/NumberField.php:51
+#: forms/wpdFormAttr/Field/RadioField.php:45
+#: forms/wpdFormAttr/Field/RatingField.php:36
+#: forms/wpdFormAttr/Field/SelectField.php:45
+#: forms/wpdFormAttr/Field/TextAreaField.php:35
+#: forms/wpdFormAttr/Field/TextField.php:41
+#: forms/wpdFormAttr/Field/UrlField.php:41
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:48
+#: forms/wpdFormAttr/Field/ColorField.php:44
+#: forms/wpdFormAttr/Field/DateField.php:44
+#: forms/wpdFormAttr/Field/NumberField.php:54
+#: forms/wpdFormAttr/Field/RadioField.php:48
+#: forms/wpdFormAttr/Field/RatingField.php:39
+#: forms/wpdFormAttr/Field/SelectField.php:48
+#: forms/wpdFormAttr/Field/TextAreaField.php:38
+#: forms/wpdFormAttr/Field/TextField.php:44
+#: forms/wpdFormAttr/Field/UrlField.php:44
+msgid "Meta Key"
+msgstr "Meta键"
+
+#: forms/wpdFormAttr/Field/CheckboxField.php:52
+#: forms/wpdFormAttr/Field/ColorField.php:48
+#: forms/wpdFormAttr/Field/DateField.php:48
+#: forms/wpdFormAttr/Field/NumberField.php:58
+#: forms/wpdFormAttr/Field/RadioField.php:52
+#: forms/wpdFormAttr/Field/RatingField.php:43
+#: forms/wpdFormAttr/Field/SelectField.php:52
+#: forms/wpdFormAttr/Field/TextAreaField.php:42
+#: forms/wpdFormAttr/Field/TextField.php:48
+#: forms/wpdFormAttr/Field/UrlField.php:48
+msgid "Replace old meta key"
+msgstr "替换旧的Meta键"
+
+#: forms/wpdFormAttr/Field/ColorField.php:23
+#: forms/wpdFormAttr/Field/DateField.php:23
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:30
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:29
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:29
+#: forms/wpdFormAttr/Field/NumberField.php:33
+#: forms/wpdFormAttr/Field/RatingField.php:22
+#: forms/wpdFormAttr/Field/TextField.php:23
+#: forms/wpdFormAttr/Field/UrlField.php:23
+msgid "Field icon"
+msgstr "字段图标"
+
+#: forms/wpdFormAttr/Field/ColorField.php:26
+#: forms/wpdFormAttr/Field/DateField.php:26
+#: forms/wpdFormAttr/Field/DefaultField/Email.php:33
+#: forms/wpdFormAttr/Field/DefaultField/Name.php:32
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:32
+#: forms/wpdFormAttr/Field/NumberField.php:36
+#: forms/wpdFormAttr/Field/RatingField.php:25
+#: forms/wpdFormAttr/Field/TextField.php:26
+#: forms/wpdFormAttr/Field/UrlField.php:26
+msgid "Font-awesome icon library."
+msgstr "Font-awesome图标库。"
+
+#: forms/wpdFormAttr/Field/CookiesConsent.php:92
+msgid "Save my data for the next time I comment"
+msgstr "保存我的数据，以便下次留言"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:37
+msgid ""
+"For an advanced antispam protection please check <a target=\"blank\" href="
+"\"https://gvectors.com/product/wpdiscuz-recaptcha/\">wpDiscuz - Google "
+"reCAPTCHA</a> addon."
+msgstr ""
+"要获得高级反垃圾邮件保护，请查看<a target=\"blank\" href=\"https://gvectors."
+"com/product/wpdiscuz-recaptcha/\"> wpDiscuz - Google reCAPTCHA </a>插件。"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:40
+msgid "Show for guests"
+msgstr "为游客显示"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:44
+msgid "Show for logged in users"
+msgstr "为已登录用户显示"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:117
+#: forms/wpdFormAttr/Form.php:926
+msgid "Code"
+msgstr "代码"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:135
+msgid "Cannot create image file"
+msgstr "不能创建图像文件"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:136
+msgid "Permission denied for file creation"
+msgstr "没有创建文件的权限"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:137
+msgid "PHP GD2 library is disabled"
+msgstr "PHP GD2库已禁用"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:138
+msgid "PNG image creation disabled"
+msgstr "创建PNG图像已禁用"
+
+#: forms/wpdFormAttr/Field/DefaultField/Captcha.php:145
+msgid "Insert the CAPTCHA code"
+msgstr "插入验证码代码"
+
+#: forms/wpdFormAttr/Field/DefaultField/Submit.php:20
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:35
+msgid "Enable"
+msgstr "启用"
+
+#: forms/wpdFormAttr/Field/DefaultField/Website.php:85
+#: forms/wpdFormAttr/Form.php:917
+msgid "Website"
+msgstr "网址"
+
+#: forms/wpdFormAttr/Field/Field.php:61
+msgid " (Submit Button)"
+msgstr "（提交按钮）"
+
+#: forms/wpdFormAttr/Field/Field.php:63
+msgid " (CAPTCHA)"
+msgstr "（验证码）"
+
+#: forms/wpdFormAttr/Field/Field.php:96
+msgid "Add To Form"
+msgstr "添加到表单"
+
+#: forms/wpdFormAttr/Field/HTMLField.php:17
+msgid "HTML Code"
+msgstr "HTML代码"
+
+#: forms/wpdFormAttr/Field/NumberField.php:22
+msgid "Min Value"
+msgstr "最小值"
+
+#: forms/wpdFormAttr/Field/NumberField.php:27
+msgid "Max Value"
+msgstr "最大值"
+
+#: forms/wpdFormAttr/Field/NumberField.php:126
+msgid "value can not be less than"
+msgstr "此值不能小于"
+
+#: forms/wpdFormAttr/Field/NumberField.php:129
+msgid "value can not be more than"
+msgstr "此值不能大于"
+
+#: forms/wpdFormAttr/Field/RadioField.php:30
+#: forms/wpdFormAttr/Field/SelectField.php:30
+msgid "New value new line"
+msgstr "每行一个值"
+
+#: forms/wpdFormAttr/Form.php:131 forms/wpdFormAttr/Form.php:427
+#: forms/wpdFormAttr/Form.php:767
+msgid ""
+"I allow to use my email address and send notification about new comments and "
+"replies (you can unsubscribe at any time)."
+msgstr "我允许使用我的邮件地址并发送关于新评论和回复的通知（你可以随时退订）。"
+
+#: forms/wpdFormAttr/Form.php:702 forms/wpdFormAttr/Form.php:724
+#: forms/wpdFormAttr/Form.php:736 forms/wpdFormAttr/Form.php:748
+#: forms/wpdFormAttr/Form.php:759 forms/wpdFormAttr/Form.php:780
+#: forms/wpdFormAttr/Form.php:810 forms/wpdFormAttr/Form.php:821
+#: forms/wpdFormAttr/Form.php:828 options/options-layouts/settings-cache.php:23
+#: options/options-layouts/settings-cache.php:33
+#: options/options-layouts/settings-cache.php:41
+#: options/options-layouts/settings-form.php:18
+#: options/options-layouts/settings-form.php:28
+#: options/options-layouts/settings-form.php:68
+#: options/options-layouts/settings-form.php:82
+#: options/options-layouts/settings-form.php:96
+#: options/options-layouts/settings-form.php:111
+#: options/options-layouts/settings-form.php:124
+#: options/options-layouts/settings-form.php:140
+#: options/options-layouts/settings-form.php:151
+#: options/options-layouts/settings-form.php:162
+#: options/options-layouts/settings-form.php:172
+#: options/options-layouts/settings-form.php:190
+#: options/options-layouts/settings-form.php:200
+#: options/options-layouts/settings-form.php:210
+#: options/options-layouts/settings-form.php:220
+#: options/options-layouts/settings-general.php:14
+#: options/options-layouts/settings-general.php:26
+#: options/options-layouts/settings-general.php:48
+#: options/options-layouts/settings-general.php:90
+#: options/options-layouts/settings-general.php:104
+#: options/options-layouts/settings-general.php:114
+#: options/options-layouts/settings-list.php:20
+#: options/options-layouts/settings-list.php:31
+#: options/options-layouts/settings-list.php:41
+#: options/options-layouts/settings-list.php:51
+#: options/options-layouts/settings-list.php:81
+#: options/options-layouts/settings-list.php:93
+#: options/options-layouts/settings-list.php:113
+#: options/options-layouts/settings-list.php:122
+#: options/options-layouts/settings-list.php:141
+#: options/options-layouts/settings-list.php:153
+#: options/options-layouts/settings-list.php:163
+#: options/options-layouts/settings-list.php:178
+#: options/options-layouts/settings-list.php:188
+#: options/options-layouts/settings-live-update.php:31
+#: options/options-layouts/settings-social.php:18
+#: options/options-layouts/settings-social.php:28
+#: options/options-layouts/settings-style.php:19
+#: options/options-layouts/settings-style.php:59
+#: options/options-layouts/settings-style.php:96
+#: options/options-layouts/settings-style.php:119
+#: options/options-layouts/settings-style.php:138
+#: options/options-layouts/settings-style.php:164
+#: options/options-layouts/settings-style.php:173
+#: options/options-layouts/settings-subscription.php:18
+#: options/options-layouts/settings-subscription.php:28
+#: options/options-layouts/settings-subscription.php:38
+#: options/options-layouts/settings-subscription.php:62
+#: options/options-layouts/settings-subscription.php:75
+#: options/options-layouts/settings-subscription.php:85
+#: options/options-layouts/settings-subscription.php:111
+#: options/options-layouts/settings-subscription.php:121
+msgid "Read the documentation"
+msgstr "阅读文档"
+
+#: forms/wpdFormAttr/Form.php:707
+msgid "Disable commenting for roles"
+msgstr "停用留言的角色"
+
+#: forms/wpdFormAttr/Form.php:729
+msgid "Allow guests to comment"
+msgstr "允许游客评论"
+
+#: forms/wpdFormAttr/Form.php:733 forms/wpdFormAttr/Form.php:745
+#: forms/wpdFormAttr/Form.php:756
+msgid "Yes"
+msgstr "是"
+
+#: forms/wpdFormAttr/Form.php:735 forms/wpdFormAttr/Form.php:747
+#: forms/wpdFormAttr/Form.php:758
+msgid "No"
+msgstr "否"
+
+#: forms/wpdFormAttr/Form.php:741
+msgid "Enable subscription bar"
+msgstr "启用订阅栏"
+
+#: forms/wpdFormAttr/Form.php:752
+msgid "Display agreement checkbox in Comment Subscription bar"
+msgstr "评论订阅栏中的显示协议复选框"
+
+#: forms/wpdFormAttr/Form.php:764
+msgid "Comment Subscription bar agreement checkbox label"
+msgstr "评论订阅栏协议复选框标签"
+
+#: forms/wpdFormAttr/Form.php:774
+msgid "Comment form header text"
+msgstr "评论表单标题文本"
+
+#: forms/wpdFormAttr/Form.php:785
+msgid "Display comment form for post types"
+msgstr "为文章类型显示评论表单"
+
+#: forms/wpdFormAttr/Form.php:792
+msgid ""
+"The red marked post types are already attached to other comment form. If you "
+"set this form too, the old forms will not be used for them."
+msgstr ""
+"红色标记的文章类型已附加到其他评论表单。 如果您也设置了此表单，则不会使用旧表"
+"单。"
+
+#: forms/wpdFormAttr/Form.php:815
+msgid "Display comment form for post IDs"
+msgstr "为置顶的文章ID显示评论"
+
+#: forms/wpdFormAttr/Form.php:816
+msgid ""
+"You can use this form for certain posts/pages specified by comma separated "
+"IDs."
+msgstr "您可以将此表单用于以逗号分隔的ID指定的某些文章/页面。"
+
+#: forms/wpdFormAttr/Form.php:832
+msgid "Comment Text Field"
+msgstr "评论文字字段"
+
+#: forms/wpdFormAttr/Form.php:847
+msgid "ADD ROW"
+msgstr "添加行"
+
+#: forms/wpdFormAttr/Form.php:884
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "只有已登录并购买了该产品的顾客可以留下评价。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:32
+msgid "Authentication failed."
+msgstr "认证失败。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:90
+msgid "Facebook access token or user ID invalid."
+msgstr "Facebook访问令牌或用户ID无效。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:94
+msgid "Facebook App Secret is required."
+msgstr "Facebook App秘密是必需的。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:123
+msgid "Facebook Application ID and Application Secret  required."
+msgstr "Facebook应用程序ID和应用程序所需的秘钥。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:151
+msgid ""
+"Facebook authentication failed (OAuth <code>state</code> does not exist)."
+msgstr "Facebook身份验证失败（OAuth <code>tate</code>不存在）。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:154
+msgid ""
+"Facebook authentication failed (OAuth <code>code</code> does not exist)."
+msgstr "Facebook身份验证失败（OAuth <code>code</code>不存在）。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:193
+msgid "Google access token  invalid."
+msgstr "Google访问令牌无效。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:204
+msgid "Google authentication failed."
+msgstr "Google身份验证失败。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:232
+msgid "Twitter Consumer Key and Consumer Secret  required."
+msgstr "需要Twitter Consumer Key 和 Consumer Secret 。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:245
+msgid "Twitter authentication failed (OAuth secret does not exist)."
+msgstr "Twitter身份验证失败（OAuth秘钥不存在）。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:256
+msgid "Twitter connection failed."
+msgstr "Twitter连接失败。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:266
+msgid "VK Client ID and Client Secret  required."
+msgstr "需要VK客户端ID和客户端密钥。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:295
+msgid "VK authentication failed (OAuth <code>state</code> does not exist)."
+msgstr "VK身份验证失败（OAuth <code>state</code>不存在）。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:298
+msgid "VK authentication failed (OAuth <code>code</code> does not exist)."
+msgstr "VK身份验证失败（OAuth <code>code</code>不存在）。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:316
+msgid "VK authentication failed (<code>user_id</code> does not exist)."
+msgstr "VK身份验证失败（<code>user_id</code>不存在）。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:342
+msgid "OK Application ID, Application Key  and Application Secret  required."
+msgstr "OK应用程序ID、应用程序Key和应用程序Secret。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:369
+msgid "OK authentication failed (OAuth <code>state</code> does not exist)."
+msgstr "OK验证失败（OAuth <code>state</code>不存在）。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:372
+msgid "OK authentication failed (<code>code</code> does not exist)."
+msgstr "OK验证失败（<code>code</code>不存在）。"
+
+#: forms/wpdFormAttr/Login/SocialLogin.php:391
+msgid "OK authentication failed (<code>access_token</code> does not exist)."
+msgstr "OK验证失败（<code>access_token</code>不存在）。"
+
+#: forms/wpdFormAttr/Tools/PersonalDataExporter.php:36
+msgid "wpDiscuz Fields Data"
+msgstr "wpDiscuz 字段数据"
+
+#: forms/wpdFormAttr/Tools/PersonalDataExporter.php:82
+msgid "Comments"
+msgstr "评论"
+
+#: forms/wpdFormAttr/html/admin-form-fields-list.php:7
+msgid "Comment Form Fields"
+msgstr "评论表单字段"
+
+#: options/addons/al/title.php:7 options/class.WpdiscuzOptions.php:419
+msgid "Advanced Likers"
+msgstr "高级Likers"
+
+#: options/addons/cai/title.php:7
+msgid "Comment Author"
+msgstr "评论作者"
+
+#: options/addons/fem/title.php:7
+msgid "Frontend Moderation"
+msgstr "前端审核"
+
+#: options/addons/more/title.php:6
+msgid "More Addons..."
+msgstr "更多扩展..."
+
+#: options/addons/mu/title.php:7 options/class.WpdiscuzOptions.php:443
+msgid "Media Uploader"
+msgstr "媒体上传"
+
+#: options/addons/raf/title.php:7 options/class.WpdiscuzOptions.php:423
+msgid "Report and Flagging"
+msgstr "报告和标记"
+
+#: options/addons/ucm/title.php:7
+msgid "Mentioning"
+msgstr "用户提及"
+
+#: options/class.WpdiscuzOptions.php:22 options/class.WpdiscuzOptions.php:145
+#: options/class.WpdiscuzOptions.php:370
+msgid "Hacker?"
+msgstr "黑客 ?"
+
+#: options/class.WpdiscuzOptions.php:136
+msgid "Settings updated"
+msgstr "设置已更新"
+
+#: options/class.WpdiscuzOptions.php:317
+msgid "Phrases updated"
+msgstr "短语已更新"
+
+#: options/class.WpdiscuzOptions.php:344
+msgid "Options were backed up!"
+msgstr "选项已备份！"
+
+#: options/class.WpdiscuzOptions.php:346
+msgid "Cannot back up the options!"
+msgstr "无法备份选项！"
+
+#: options/class.WpdiscuzOptions.php:357
+msgid "Options Imported Successfully!"
+msgstr "选项导入成功！"
+
+#: options/class.WpdiscuzOptions.php:359
+msgid "Error occured! File content is empty or data is not valid!"
+msgstr "发生了错误！ 文件内容为空或数据无效！"
+
+#: options/class.WpdiscuzOptions.php:362
+msgid "Error occured! Can not get file content!"
+msgstr "发生了错误！ 无法获取文件内容！"
+
+#: options/class.WpdiscuzOptions.php:365
+msgid "Error occured! Please choose file!"
+msgstr "发生了错误！请重新选择一个文件！"
+
+#: options/class.WpdiscuzOptions.php:381
+msgid ""
+"All 16 addons in one bundle. Save 90% and get Unlimited Site License with "
+"one year premium support."
+msgstr ""
+"所有16个扩展都在一个捆绑中。 节省90％并获得一年高级支持的无限站点许可。"
+
+#: options/class.WpdiscuzOptions.php:382
+msgid ""
+"Brings an ocean of emotions to your comments. It comes with an awesome smile "
+"package."
+msgstr "为您的评论添加表情包。有酷酷的微笑包哦。"
+
+#: options/class.WpdiscuzOptions.php:383
+msgid ""
+"Extended information about comment author with Profile, Activity, Votes and "
+"Subscriptions Tabs on pop-up window."
+msgstr ""
+"有关评论作者的扩展信息，包括弹出窗口中的“个人资料”，“活动”，“投票”和“订阅”选"
+"项卡。"
+
+#: options/class.WpdiscuzOptions.php:384
+msgid ""
+"Real-time online user checking, pop-up notification of new online users and "
+"online/offline badges."
+msgstr "实时在线用户检查，新在线用户的弹出通知和在线/离线徽章。"
+
+#: options/class.WpdiscuzOptions.php:385
+msgid ""
+"Allows to create private comment threads. Rich management options in "
+"dashboard by user roles."
+msgstr "允许创建私有评论线程。 按用户角色在仪表板中提供丰富的管理选项。"
+
+#: options/class.WpdiscuzOptions.php:386
+msgid ""
+"Total control over comment subscriptions. Full list, monitor, manage, "
+"filter, unsubscribe, confirm..."
+msgstr "完全控制评论订阅。 完整列表，监控，管理，过滤，取消订阅，确认......"
+
+#: options/class.WpdiscuzOptions.php:387
+msgid ""
+"A full-fledged tool-kit for advertising in comment section of your website. "
+"Separate banner and ad managment."
+msgstr ""
+"一个完整的工具包，可在您网站的评论部分进行广告宣传。 单独的横幅和广告管理。"
+
+#: options/class.WpdiscuzOptions.php:388
+msgid ""
+"Allows to mention comments and users in comment text using #comment-id and "
+"@username tags."
+msgstr "允许使用#comment-id和@username标记在评论文本中提及评论和用户。"
+
+#: options/class.WpdiscuzOptions.php:389
+msgid ""
+"See comment likers and voters of each comment. Adds user reputation and "
+"badges based on received likes."
+msgstr "查看每条评论的评论员和选民。 根据收到的喜欢添加用户信誉和徽章。"
+
+#: options/class.WpdiscuzOptions.php:390
+msgid ""
+"Comment reporting tools. Auto-moderates comments based on number of flags "
+"and dislikes."
+msgstr "评论报表工具。基于点赞和差评数量，自动审核评论。"
+
+#: options/class.WpdiscuzOptions.php:391
+msgid ""
+"Adds a smart and intuitive AJAX \"Translate\" button with 60 language "
+"options. Uses free translation API."
+msgstr "添加一个智能的Ajax\"翻译\"按钮，可以翻译60种语言，使用免费翻译API。"
+
+#: options/class.WpdiscuzOptions.php:392
+msgid ""
+"AJAX powered front-end comment search. It starts searching while you type "
+"search words. "
+msgstr "AJAX驱动的前端评论搜索。当您输入搜索词时启动搜索。"
+
+#: options/class.WpdiscuzOptions.php:393
+msgid ""
+"Most voted comments, Active comment threads, Most commented posts, Active "
+"comment authors"
+msgstr "得票最多的评论，活跃的评论区，评论最多的文章，活跃的评论人"
+
+#: options/class.WpdiscuzOptions.php:394
+msgid ""
+"All in one powerful yet simple admin toolkit to moderate comments on front-"
+"end."
+msgstr "用于前端审核评论的简单且强大的管理工具。"
+
+#: options/class.WpdiscuzOptions.php:395
+msgid ""
+"Extended comment attachment system. Allows to upload images, videos, audios "
+"and other file types."
+msgstr "扩展的评论附件模块，允许上传图片、视频、音频和其他文件类型。"
+
+#: options/class.WpdiscuzOptions.php:396
+msgid ""
+"Adds No CAPTCHA on all comment forms. Stops spam and bot comments with "
+"Google reCAPTCHA"
+msgstr "对所有评论表单不添加验证码。用谷歌reCAPTCHA停止垃圾邮件和bot评论"
+
+#: options/class.WpdiscuzOptions.php:397
+msgid ""
+"Integrates myCRED Badges and Ranks. Converts wpDiscuz comment votes/likes to "
+"myCRED points. "
+msgstr "集成myCRED标签和级别。转化wpDiscuz评论投票/赞为myCRED积分。"
+
+#: options/class.WpdiscuzOptions.php:403
+msgid "Custom Comment Forms"
+msgstr "自定义评论表单"
+
+#: options/class.WpdiscuzOptions.php:404
+msgid ""
+"You can create custom comment forms with wpDiscuz. wpDiscuz 4 comes with "
+"custom comment forms and fields. You can create custom comment forms for "
+"each post type, each form can beceated with different form fields, for "
+"eaxample: text, dropdown, rating, checkboxes, etc..."
+msgstr ""
+"您可以使用wpDiscuz创建自定义评论表单。 wpDiscuz 4附带自定义评论表单和字段。 "
+"您可以为每种文章类型创建自定义评论表单，每个表单可以使用不同的表单字段进行表"
+"示，例如：文本，下拉列表，评级，复选框等等..."
+
+#: options/class.WpdiscuzOptions.php:407
+msgid "Emoticons"
+msgstr "表情符号"
+
+#: options/class.WpdiscuzOptions.php:408
+msgid ""
+"You can add more emotions to your comments using wpDiscuz Emoticons addon."
+msgstr "您可以使用wpDiscuz表情符号添加更多的表情符号给您的评论。"
+
+#: options/class.WpdiscuzOptions.php:411
+msgid "Ads Manager"
+msgstr "广告管理"
+
+#: options/class.WpdiscuzOptions.php:412
+msgid ""
+"Increase your income using ad banners. Comment area is the most active "
+"sections for advertising. wpDiscuz Ads Manager addon is designed to help you "
+"add banners and control ads in this section."
+msgstr ""
+"使用广告横幅增加收入， 评论区域是广告最活跃的部分. wpDiscuz广告管理插件旨在帮"
+"助您在此部分中添加横幅广告和控制广告。"
+
+#: options/class.WpdiscuzOptions.php:415
+msgid "User and Comment Mentioning"
+msgstr "用户和评论提及"
+
+#: options/class.WpdiscuzOptions.php:416
+msgid ""
+"Using wpDiscuz User &amp; Comment Mentioning addon you can allow commenters "
+"mention comments and users in comment text using #comment-id and @username "
+"tags."
+msgstr ""
+"使用wpDiscuz用户和评论提及插件，您可以允许评论者使用comment-id和@username标记"
+"在评论文本中提及评论和用户。"
+
+#: options/class.WpdiscuzOptions.php:420
+msgid ""
+"wpDiscuz Advanced Likers addon displays likers and voters of each comment. "
+"Adds user reputation and badges based on received likes."
+msgstr ""
+"wpDiscuz高级Likers插件显示每个评论的喜欢和选民。 根据收到的喜欢添加用户信誉和"
+"徽章。"
+
+#: options/class.WpdiscuzOptions.php:424
+msgid ""
+"Let your commenters help you to determine and remove spam comments. wpDiscuz "
+"Report and Flagging addon comes with comment reporting tools. Automaticaly "
+"auto-moderates comments based on number of flags and dislikes."
+msgstr ""
+"让您的评论者帮助您确定和删除垃圾评论。 wpDiscuz报告和标记插件附带评论报告工"
+"具。 自动根据标志和不喜欢的数量自动调整评论。"
+
+#: options/class.WpdiscuzOptions.php:427
+msgid "Comment Translate"
+msgstr "评论翻译"
+
+#: options/class.WpdiscuzOptions.php:428
+msgid ""
+"In most cases the big part of your visitors are not a native speakers of "
+"your language. Make your comments comprehensible for all visitors using "
+"wpDiscuz Comment Translation addon. It adds smart and intuitive AJAX "
+"\"Translate\" button with 60 language translation options. Uses free "
+"translation API."
+msgstr ""
+"在大多数情况下，您的访问者的大部分不是您的语言的母语。 使用wpDiscuz评论翻译插"
+"件，让所有访客都能理解您的评论。 它添加了智能和直观的AJAX“翻译”按钮与60种语言"
+"翻译选项。 使用免费翻译API。"
+
+#: options/class.WpdiscuzOptions.php:431
+msgid "Comment Search"
+msgstr "评论搜索"
+
+#: options/class.WpdiscuzOptions.php:432
+msgid ""
+"You can let website visitor search in comments. It's always more attractive "
+"to find a comment about something that interest you. Using wpDiscuz Comment "
+"Search addon you'll get a nice, AJAX powered front-end comment search form "
+"above comment list."
+msgstr ""
+"您可以让网站访问者在评论中进行搜索。 找到关于你感兴趣的东西的评论总是更有吸引"
+"力。 使用wpDiscuz评论搜索插件你会在评论列表上面得到一个很好的，AJAX驱动的前端"
+"评论搜索表单。"
+
+#: options/class.WpdiscuzOptions.php:435
+msgid "wpDiscuz Widgets"
+msgstr "wpDiscuz小工具"
+
+#: options/class.WpdiscuzOptions.php:436
+msgid ""
+"More Comment Widgets! Most voted comments, Active comment threads, Most "
+"commented posts, Active comment authors widgets are available in wpDiscuz "
+"Widgets Addon"
+msgstr ""
+"更多评论小工具！ wpDiscuz 小工具扩展中提供了最多投票评论、活跃评论对话、评论"
+"最多的文章、活跃评论作者小工具"
+
+#: options/class.WpdiscuzOptions.php:439
+msgid "Front-end Moderation"
+msgstr "前端审核"
+
+#: options/class.WpdiscuzOptions.php:440
+msgid ""
+"You can moderate comments on front-end using all in one powerful yet simple "
+"wpDiscuz Frontend Moderation addon."
+msgstr "您可以使用一个功能强大而简单的wpDiscuz前端审核插件来控制前端的评论。"
+
+#: options/class.WpdiscuzOptions.php:444
+msgid ""
+"You can let website visitors attach images and files to comments and embed "
+"video/audio content using wpDiscuz Media Uploader addon."
+msgstr ""
+"您可以让网站访问者使用wpDiscuz媒体上传插件将图像和文件附加到评论中并嵌入视频/"
+"音频内容。"
+
+#: options/class.WpdiscuzOptions.php:447
+msgid "Google ReCaptcha"
+msgstr "谷歌ReCaptcha"
+
+#: options/class.WpdiscuzOptions.php:448
+msgid ""
+"Advanced spam protection with wpDiscuz Google reCAPTCHA addon. This addon "
+"adds No-CAPTCHA reCAPTCHA on all comment forms. Stops spam and bot comments."
+msgstr ""
+"先进的垃圾邮件保护与WpDISCUZ谷歌ReaPTCHA插件。这个插件在所有评论表单上没有添"
+"加No-CAPTCHA RePAPTCHA。停止垃圾邮件和BOT评论。"
+
+#: options/class.WpdiscuzOptions.php:469
+msgid "Finally wpDiscuz Addons Bundle is ready for You!"
+msgstr "最后，wpDiscuz 扩展捆绑包已经为您准备好了！"
+
+#: options/class.WpdiscuzOptions.php:479
+msgid "View Addons Bundle"
+msgstr "查看扩展捆绑包"
+
+#: options/class.WpdiscuzOptions.php:485
+msgid "Go to wpDiscuz Addons subMenu"
+msgstr "前往wpDiscuz扩展子菜单"
+
+#: options/class.WpdiscuzOptions.php:519
+msgid "Do you know?"
+msgstr "你知道吗？"
+
+#: options/class.WpdiscuzOptions.php:532
+msgid "More info"
+msgstr "更多信息"
+
+#: options/class.WpdiscuzOptionsSerialized.php:801
+msgid "Be the First to Comment!"
+msgstr "您将是第一位评论人！"
+
+#: options/class.WpdiscuzOptionsSerialized.php:802
+msgid "Start the discussion"
+msgstr "开始讨论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:803
+msgid "Join the discussion"
+msgstr "发表评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:804
+#: options/phrases-layouts/phrases-form.php:19
+msgid "Comment threads"
+msgstr "评论对话"
+
+#: options/class.WpdiscuzOptionsSerialized.php:805
+#: options/phrases-layouts/phrases-form.php:23
+msgid "Thread replies"
+msgstr "对话回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:806
+#: options/phrases-layouts/phrases-form.php:27
+msgid "Followers"
+msgstr "粉丝"
+
+#: options/class.WpdiscuzOptionsSerialized.php:807
+#: options/phrases-layouts/phrases-form.php:31
+msgid "Most reacted comment"
+msgstr "回应最多的评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:808
+#: options/phrases-layouts/phrases-form.php:35
+msgid "Hottest comment thread"
+msgstr "最热门的评论对话"
+
+#: options/class.WpdiscuzOptionsSerialized.php:809
+#: options/phrases-layouts/phrases-form.php:39
+msgid "Comment authors"
+msgstr "评论作者"
+
+#: options/class.WpdiscuzOptionsSerialized.php:810
+#: options/phrases-layouts/phrases-form.php:43
+msgid "Recent comment authors"
+msgstr "最近的评论作者"
+
+#: options/class.WpdiscuzOptionsSerialized.php:812
+#: options/phrases-layouts/phrases-form.php:51
+msgid "Subscribe"
+msgstr "订阅"
+
+#: options/class.WpdiscuzOptionsSerialized.php:813
+#: options/phrases-layouts/phrases-form.php:55
+msgid "Notify of"
+msgstr "提醒"
+
+#: options/class.WpdiscuzOptionsSerialized.php:814
+msgid "new follow-up comments"
+msgstr "新发布的评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:815
+msgid "new replies to my comments"
+msgstr "我评论的新回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:816
+msgid "Notify of new replies to this comment"
+msgstr "有此评论的新回复则提醒我"
+
+#: options/class.WpdiscuzOptionsSerialized.php:817
+#: options/phrases-layouts/phrases-form.php:71
+msgid "Sort by"
+msgstr "排序"
+
+#: options/class.WpdiscuzOptionsSerialized.php:818
+#: options/phrases-layouts/phrases-form.php:75
+msgid "newest"
+msgstr "最新"
+
+#: options/class.WpdiscuzOptionsSerialized.php:819
+#: options/phrases-layouts/phrases-form.php:79
+msgid "oldest"
+msgstr "最旧"
+
+#: options/class.WpdiscuzOptionsSerialized.php:820
+#: options/phrases-layouts/phrases-form.php:83
+msgid "most voted"
+msgstr "得票最多"
+
+#: options/class.WpdiscuzOptionsSerialized.php:821
+msgid "Load More Comments"
+msgstr "加载更多评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:822
+#: options/phrases-layouts/phrases-general.php:19
+msgid "Load Rest of Comments"
+msgstr "加载剩余评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:823
+#: options/phrases-layouts/phrases-comment.php:11
+msgid "Reply"
+msgstr "回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:824
+#: options/phrases-layouts/phrases-comment.php:15
+msgid "Share"
+msgstr "分享"
+
+#: options/class.WpdiscuzOptionsSerialized.php:826
+#: options/phrases-layouts/phrases-comment.php:23
+msgid "Share On Facebook"
+msgstr "分享至脸书"
+
+#: options/class.WpdiscuzOptionsSerialized.php:827
+#: options/phrases-layouts/phrases-comment.php:27
+msgid "Share On Twitter"
+msgstr "分享至推特"
+
+#: options/class.WpdiscuzOptionsSerialized.php:828
+#: options/phrases-layouts/phrases-comment.php:31
+msgid "Share On Google"
+msgstr "分享至谷歌"
+
+#: options/class.WpdiscuzOptionsSerialized.php:829
+#: options/phrases-layouts/phrases-comment.php:35
+msgid "Share On VKontakte"
+msgstr "分享至VK社区"
+
+#: options/class.WpdiscuzOptionsSerialized.php:830
+#: options/phrases-layouts/phrases-comment.php:39
+msgid "Share On Odnoklassniki"
+msgstr "分享至Odnoklassniki"
+
+#: options/class.WpdiscuzOptionsSerialized.php:831
+#: options/phrases-layouts/phrases-comment.php:43
+msgid "Hide Replies"
+msgstr "隐藏回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:832
+#: options/phrases-layouts/phrases-comment.php:47
+msgid "View Replies"
+msgstr "查看回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:833
+#: options/class.WpdiscuzOptionsSerialized.php:958
+msgid "New Comment"
+msgstr "新评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:834
+msgid ""
+"Hi [SUBSCRIBER_NAME],<br/><br/> new comment have been posted by the "
+"<em><strong>[COMMENT_AUTHOR]</em></strong> on the discussion section you've "
+"been interested in<br/><br/><a href=\"[COMMENT_URL]\">[COMMENT_URL]</a><br/"
+"><br/>[COMMENT_CONTENT]<br/><br/><a href=\"[UNSUBSCRIBE_URL]\">Unsubscribe</"
+"a>"
+msgstr ""
+"你好，[SUBSCRIBER_NAME]，<br/><br/> 名为 <em><strong>[COMMENT_AUTHOR]</em></"
+"strong>的用户在您感兴趣的文章中发表了评论。<br/><br/>评论地址：<a href="
+"\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>评论内容：[COMMENT_CONTENT]<br/"
+"><br/><a href=\"[UNSUBSCRIBE_URL]\">>>取消订阅<<</a>"
+
+#: options/class.WpdiscuzOptionsSerialized.php:835
+#: options/class.WpdiscuzOptionsSerialized.php:837
+msgid "New Reply"
+msgstr "新回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:836
+#: options/class.WpdiscuzOptionsSerialized.php:838
+msgid ""
+"Hi [SUBSCRIBER_NAME],<br/><br/> new reply have been posted by the "
+"<em><strong>[COMMENT_AUTHOR]</em></strong> on the discussion section you've "
+"been interested in<br/><br/><a href=\"[COMMENT_URL]\">[COMMENT_URL]</a><br/"
+"><br/>[COMMENT_CONTENT]<br/><br/><a href=\"[UNSUBSCRIBE_URL]\">Unsubscribe</"
+"a>"
+msgstr ""
+"你好，[SUBSCRIBER_NAME]，<br/><br/> 名为 <em><strong>[COMMENT_AUTHOR]</em></"
+"strong>的用户在您感兴趣的文章中回复了评论。<br/><br/>评论地址：<a href="
+"\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>评论内容：[COMMENT_CONTENT]<br/"
+"><br/><a href=\"[UNSUBSCRIBE_URL]\">>>取消订阅<<</a>"
+
+#: options/class.WpdiscuzOptionsSerialized.php:839
+msgid "You're subscribed for new replies on this comment"
+msgstr "您已订阅此评论上的新回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:840
+msgid "You're subscribed for new replies on all your comments"
+msgstr "您已订阅您所有评论上的新回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:841
+msgid "You're subscribed for new follow-up comments on this post"
+msgstr "您已订阅此评论上的新回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:842
+#: options/phrases-layouts/phrases-email.php:172
+msgid "Unsubscribe"
+msgstr "不订阅"
+
+#: options/class.WpdiscuzOptionsSerialized.php:843
+msgid "Cancel subscription"
+msgstr "取消订阅"
+
+#: options/class.WpdiscuzOptionsSerialized.php:844
+#: options/phrases-layouts/phrases-notification.php:19
+msgid "You've successfully unsubscribed."
+msgstr "你已取消订阅。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:845
+#: options/phrases-layouts/phrases-notification.php:15
+msgid "You've successfully subscribed."
+msgstr "你已成功订阅。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:846
+#: options/phrases-layouts/phrases-email.php:180
+msgid "Confirm your subscription"
+msgstr "确认您的订阅"
+
+#: options/class.WpdiscuzOptionsSerialized.php:847
+#: options/phrases-layouts/phrases-email.php:184
+msgid "You've successfully confirmed your subscription."
+msgstr "你已成功确认订阅。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:848
+msgid "Subscription Confirmation"
+msgstr "订阅确认"
+
+#: options/class.WpdiscuzOptionsSerialized.php:849
+msgid ""
+"Hi, <br/> You just subscribed for new comments on our website. This means "
+"you will receive an email when new comments are posted according to "
+"subscription option you've chosen. <br/> To activate, click confirm below. "
+"If you believe this is an error, ignore this message and we'll never bother "
+"you again. <br/><br/><a href=\"[POST_URL]\">[POST_TITLE]</a><br/><br/><a "
+"href=\"[CONFIRM_URL]\">Confirm Your Subscrption</a><br/><br/><a href="
+"\"[CANCEL_URL]\">Cancel Subscription</a>"
+msgstr ""
+"嗨，您刚刚在我们的网站上订阅了新评论。 这意味着，根据您选择的订阅选项发布新评"
+"论时，您将收到一封电子邮件。 <br/>要激活，请单击下面的确认。 如果您认为这是一"
+"个误操作，请忽略此消息，我们将再也不会打扰您。 <br/> <br/> <a href="
+"\"[POST_URL]\"> [POST_TITLE] </a> <br/> <br/> <a href=\"[CONFIRM_URL]\">确认"
+"订阅</a> <br/> <br/> <a href=\"[CANCEL_URL]\">取消订阅</a>"
+
+#: options/class.WpdiscuzOptionsSerialized.php:850
+msgid "please fill out this field to comment"
+msgstr "评论前请先填写此字段"
+
+#: options/class.WpdiscuzOptionsSerialized.php:851
+msgid "email address is invalid"
+msgstr "无效的邮箱地址"
+
+#: options/class.WpdiscuzOptionsSerialized.php:852
+msgid "url is invalid"
+msgstr "无效的URL网址"
+
+#: options/class.WpdiscuzOptionsSerialized.php:853
+msgid "year"
+msgstr "年"
+
+#: options/class.WpdiscuzOptionsSerialized.php:854
+msgid "years"
+msgstr "年"
+
+#: options/class.WpdiscuzOptionsSerialized.php:855
+msgid "month"
+msgstr "月"
+
+#: options/class.WpdiscuzOptionsSerialized.php:856
+msgid "months"
+msgstr "月"
+
+#: options/class.WpdiscuzOptionsSerialized.php:857
+msgid "day"
+msgstr "天"
+
+#: options/class.WpdiscuzOptionsSerialized.php:858
+msgid "days"
+msgstr "天"
+
+#: options/class.WpdiscuzOptionsSerialized.php:859
+msgid "hour"
+msgstr "小时"
+
+#: options/class.WpdiscuzOptionsSerialized.php:860
+msgid "hours"
+msgstr "小时"
+
+#: options/class.WpdiscuzOptionsSerialized.php:861
+msgid "minute"
+msgstr "分钟"
+
+#: options/class.WpdiscuzOptionsSerialized.php:862
+msgid "minutes"
+msgstr "分钟"
+
+#: options/class.WpdiscuzOptionsSerialized.php:863
+msgid "second"
+msgstr "秒"
+
+#: options/class.WpdiscuzOptionsSerialized.php:864
+msgid "seconds"
+msgstr "秒"
+
+#: options/class.WpdiscuzOptionsSerialized.php:865
+msgid "right now"
+msgstr "马上"
+
+#: options/class.WpdiscuzOptionsSerialized.php:866
+msgid "ago"
+msgstr "之前"
+
+#: options/class.WpdiscuzOptionsSerialized.php:867
+#: options/phrases-layouts/phrases-notification.php:38
+msgid "You must be"
+msgstr "你一定是"
+
+#: options/class.WpdiscuzOptionsSerialized.php:868
+msgid "You are logged in as"
+msgstr "您是"
+
+#: options/class.WpdiscuzOptionsSerialized.php:869
+#: options/phrases-layouts/phrases-notification.php:29
+msgid "Login"
+msgstr "登录"
+
+#: options/class.WpdiscuzOptionsSerialized.php:870
+#: options/phrases-layouts/phrases-notification.php:33
+#, php-format
+msgid "Please %s to comment"
+msgstr "请 %s 发表评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:871
+#: options/phrases-layouts/phrases-notification.php:54
+msgid "Log out"
+msgstr "登出"
+
+#: options/class.WpdiscuzOptionsSerialized.php:872
+msgid "logged in"
+msgstr "已登录"
+
+#: options/class.WpdiscuzOptionsSerialized.php:873
+msgid "to post a comment."
+msgstr "来发表评论。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:874
+#: options/phrases-layouts/phrases-comment.php:75
+msgid "Vote Up"
+msgstr "赞"
+
+#: options/class.WpdiscuzOptionsSerialized.php:875
+#: options/phrases-layouts/phrases-comment.php:79
+msgid "Vote Down"
+msgstr "踩"
+
+#: options/class.WpdiscuzOptionsSerialized.php:876
+#: options/phrases-layouts/phrases-notification.php:58
+msgid "Vote Counted"
+msgstr "计入的投票"
+
+#: options/class.WpdiscuzOptionsSerialized.php:877
+msgid "You've already voted for this comment"
+msgstr "您已对此评论投过票了"
+
+#: options/class.WpdiscuzOptionsSerialized.php:878
+#: options/phrases-layouts/phrases-error.php:27
+msgid "Voting Error"
+msgstr "投票错误"
+
+#: options/class.WpdiscuzOptionsSerialized.php:879
+msgid "You Must Be Logged In To Vote"
+msgstr "您须先登录再投票"
+
+#: options/class.WpdiscuzOptionsSerialized.php:880
+msgid "You cannot vote for your comment"
+msgstr "您不能为自己的评论投票"
+
+#: options/class.WpdiscuzOptionsSerialized.php:881
+msgid "You are not allowed to vote for this comment"
+msgstr "您不能给此评论投票"
+
+#: options/class.WpdiscuzOptionsSerialized.php:882
+#: options/phrases-layouts/phrases-error.php:39
+msgid "Invalid Captcha Code"
+msgstr "无效的验证码"
+
+#: options/class.WpdiscuzOptionsSerialized.php:883
+#: options/phrases-layouts/phrases-error.php:43
+msgid "Some of field value is invalid"
+msgstr "一些字段值无效"
+
+#: options/class.WpdiscuzOptionsSerialized.php:884
+msgid "new comment"
+msgstr "新评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:885
+msgid "new comments"
+msgstr "新评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:886
+msgid "Comment awaiting moderation"
+msgstr "待审核的评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:887
+msgid "new reply on your comment"
+msgstr "您评论的新回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:888
+msgid "new replies on your comments"
+msgstr "您评论的新回复"
+
+#: options/class.WpdiscuzOptionsSerialized.php:889
+msgid "Sorry, the comment was not updated"
+msgstr "对不起，评论未更新"
+
+#: options/class.WpdiscuzOptionsSerialized.php:890
+msgid "Sorry, this comment no longer possible to edit"
+msgstr "对不起，此评论已不能编辑"
+
+#: options/class.WpdiscuzOptionsSerialized.php:891
+msgid "You've not made any changes"
+msgstr "您没有做出任何更改"
+
+#: options/class.WpdiscuzOptionsSerialized.php:892
+msgid "Save"
+msgstr "保存"
+
+#: options/class.WpdiscuzOptionsSerialized.php:893
+msgid "Cancel"
+msgstr "取消"
+
+#: options/class.WpdiscuzOptionsSerialized.php:894
+msgid "Input is too short"
+msgstr "输入太短"
+
+#: options/class.WpdiscuzOptionsSerialized.php:895
+msgid "Input is too long"
+msgstr "输入太长"
+
+#: options/class.WpdiscuzOptionsSerialized.php:896
+msgid "Read more &raquo;"
+msgstr "阅读更多 &raquo;"
+
+#: options/class.WpdiscuzOptionsSerialized.php:897
+msgid "Anonymous"
+msgstr "匿名"
+
+#: options/class.WpdiscuzOptionsSerialized.php:898
+#: options/phrases-layouts/phrases-error.php:67
+msgid "Please fill out required fields"
+msgstr "请填写必填字段"
+
+#: options/class.WpdiscuzOptionsSerialized.php:899
+#: options/phrases-layouts/phrases-social-login.php:11
+msgid "Connect with"
+msgstr "一键登录"
+
+#: options/class.WpdiscuzOptionsSerialized.php:900
+#: options/phrases-layouts/phrases-notification.php:11
+msgid "You're subscribed to"
+msgstr "您已订阅了"
+
+#: options/class.WpdiscuzOptionsSerialized.php:901
+msgid "Participate in this discussion via email"
+msgstr "用邮箱参与此讨论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:902
+#: utils/layouts/pagination.php:46
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: options/class.WpdiscuzOptionsSerialized.php:903
+msgid "Your comment is approved!"
+msgstr "您的评论已获批准！"
+
+#: options/class.WpdiscuzOptionsSerialized.php:904
+msgid ""
+"Hi [COMMENT_AUTHOR],<br/><br/>your comment was approved.<br/><br/><a href="
+"\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]"
+msgstr ""
+"您好[COMMENT_AUTHOR]，<br/> <br/>您的评论获得批准。<br/><br/><a href="
+"\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]"
+
+#: options/class.WpdiscuzOptionsSerialized.php:905
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:906
+msgid "Stick this comment"
+msgstr "置顶此评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:907
+#: options/phrases-layouts/phrases-comment.php:103
+msgid "Stick"
+msgstr "置顶"
+
+#: options/class.WpdiscuzOptionsSerialized.php:908
+#: options/phrases-layouts/phrases-comment.php:107
+msgid "Unstick"
+msgstr "解除置顶"
+
+#: options/class.WpdiscuzOptionsSerialized.php:909
+msgid "Sticky comment thread"
+msgstr "置顶评论对话"
+
+#: options/class.WpdiscuzOptionsSerialized.php:910
+msgid "Close this thread"
+msgstr "关闭此对话"
+
+#: options/class.WpdiscuzOptionsSerialized.php:911
+#: options/phrases-layouts/phrases-comment.php:119
+msgid "Close"
+msgstr "关闭"
+
+#: options/class.WpdiscuzOptionsSerialized.php:912
+#: options/phrases-layouts/phrases-comment.php:123
+msgid "Open"
+msgstr "打开"
+
+#: options/class.WpdiscuzOptionsSerialized.php:913
+msgid "Closed comment thread"
+msgstr "关闭评论对话"
+
+#: options/class.WpdiscuzOptionsSerialized.php:914
+msgid "I allow to create an account"
+msgstr "允许创建一个帐户"
+
+#: options/class.WpdiscuzOptionsSerialized.php:915
+msgid ""
+"When you login first time using a Social Login button, we collect your "
+"account public profile information shared by Social Login provider, based on "
+"your privacy settings. We also get your email address to automatically "
+"create an account for you in our website. Once your account is created, "
+"you'll be logged-in to this account."
+msgstr ""
+"当您第一次使用社交登录按钮登录时，我们会根据您的隐私设置收集社交登录提供商共"
+"享的您的帐户公开个人资料信息。 我们还会在您的网站上为您自动创建一个帐户。 创"
+"建帐户后，您将登录此帐户。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:916
+msgid "This comment form is under antispam protection"
+msgstr "此评论表单受反垃圾邮件保护"
+
+#: options/class.WpdiscuzOptionsSerialized.php:917
+#: options/phrases-layouts/phrases-social-login.php:23
+msgid "Disagree"
+msgstr "不同意"
+
+#: options/class.WpdiscuzOptionsSerialized.php:918
+#: options/phrases-layouts/phrases-social-login.php:27
+msgid "Agree"
+msgstr "同意"
+
+#: options/class.WpdiscuzOptionsSerialized.php:919
+#: options/phrases-layouts/phrases-user-settings.php:11
+msgid "My content and settings"
+msgstr "我的内容和设置"
+
+#: options/class.WpdiscuzOptionsSerialized.php:920
+#: options/phrases-layouts/phrases-user-settings.php:15
+msgid "Activity"
+msgstr "活动"
+
+#: options/class.WpdiscuzOptionsSerialized.php:921
+#: options/phrases-layouts/phrases-user-settings.php:19
+msgid "Subscriptions"
+msgstr "订阅"
+
+#: options/class.WpdiscuzOptionsSerialized.php:922
+#: options/phrases-layouts/phrases-user-settings.php:23
+msgid "Follows"
+msgstr "关注"
+
+#: options/class.WpdiscuzOptionsSerialized.php:923
+#: options/phrases-layouts/phrases-user-settings.php:27
+msgid "In response to:"
+msgstr "回应给："
+
+#: options/class.WpdiscuzOptionsSerialized.php:924
+#: options/class.WpdiscuzOptionsSerialized.php:930
+#: options/phrases-layouts/phrases-user-settings.php:31
+#: options/phrases-layouts/phrases-user-settings.php:55
+msgid "Bulk management via email"
+msgstr "通过电子邮件批量管理"
+
+#: options/class.WpdiscuzOptionsSerialized.php:925
+msgid ""
+"Click the button above to get an email with bulk delete and unsubscribe "
+"links."
+msgstr "单击上面的按钮以获取包含批量删除和取消订阅链接的电子邮件。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:926
+#: options/phrases-layouts/phrases-user-settings.php:39
+msgid "No data found!"
+msgstr "找不到数据！"
+
+#: options/class.WpdiscuzOptionsSerialized.php:927
+#: options/class.WpdiscuzOptionsSerialized.php:931
+#: options/phrases-layouts/phrases-user-settings.php:43
+#: options/phrases-layouts/phrases-user-settings.php:60
+msgid "Delete all my comments"
+msgstr "删除我的所有评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:928
+#: options/phrases-layouts/phrases-user-settings.php:47
+msgid "Cancel all comment subscriptions"
+msgstr "取消所有评论订阅"
+
+#: options/class.WpdiscuzOptionsSerialized.php:929
+#: options/phrases-layouts/phrases-user-settings.php:51
+msgid "Clear cookies with my personal data"
+msgstr "清除包含我个人数据的Cookies"
+
+#: options/class.WpdiscuzOptionsSerialized.php:932
+msgid ""
+"Please use this link to delete all your comments. Please note, that this "
+"action cannot be undone.<br/><br/><a href=\"[DELETE_COMMENTS_URL]\" target="
+"\"_blank\">Delete all my comments</a><br/><br/>"
+msgstr ""
+"请使用此链接删除您的所有评论。 请注意，此操作无法撤消。<br/><br/><a href="
+"\"[DELETE_COMMENTS_URL]\" target=\"_blank\">删除我的所有评论</a><br/><br/>"
+
+#: options/class.WpdiscuzOptionsSerialized.php:933
+#: options/phrases-layouts/phrases-user-settings.php:85
+msgid "Delete all my subscriptions"
+msgstr "删除我的所有订阅"
+
+#: options/class.WpdiscuzOptionsSerialized.php:934
+msgid ""
+"Please use this link to cancel all subscriptions for new comments. Please "
+"note, that this action cannot be undone.<br/><br/><a href="
+"\"[DELETE_SUBSCRIPTIONS_URL]\" target=\"_blank\">Delete all my "
+"subscriptions</a><br/><br/>"
+msgstr ""
+"请使用此链接取消所有新评论的订阅。 请注意，此操作无法撤消。<br/><br/><a href="
+"\"[DELETE_SUBSCRIPTIONS_URL]\" target=\"_blank\">删除我的所有订阅</a><br/"
+"><br/>"
+
+#: options/class.WpdiscuzOptionsSerialized.php:935
+#: options/phrases-layouts/phrases-user-settings.php:110
+msgid "Delete all my follows"
+msgstr "删除我的所有关注"
+
+#: options/class.WpdiscuzOptionsSerialized.php:936
+msgid ""
+"Please use this link to cancel all follows for new comments. Please note, "
+"that this action cannot be undone.<br/><br/><a href=\"[DELETE_FOLLOWS_URL]\" "
+"target=\"_blank\">Delete all my follows</a><br/><br/>"
+msgstr ""
+"请使用此链接取消所有我用来获取新评论的关注。 请注意，此操作无法撤消。<br/"
+"><br/><a href=\"[DELETE_FOLLOWS_URL]\" target=\"_blank\">删除所有关注</a><br/"
+"><br/>"
+
+#: options/class.WpdiscuzOptionsSerialized.php:937
+#: options/phrases-layouts/phrases-user-settings.php:134
+msgid "subscribed to this comment"
+msgstr "订阅了这条评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:938
+#: options/phrases-layouts/phrases-user-settings.php:138
+msgid "subscribed to my comments"
+msgstr "订阅了我的评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:939
+#: options/phrases-layouts/phrases-user-settings.php:142
+msgid "subscribed to all follow-up comments of this post"
+msgstr "订阅了这篇文章的所有后续评论"
+
+#: options/class.WpdiscuzOptionsSerialized.php:940
+#: options/phrases-layouts/phrases-user-settings.php:146
+msgid "Please check your email."
+msgstr "请查看你的邮箱。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:941
+#: options/phrases-layouts/phrases-user-settings.php:150
+msgid "Error : Can't send email."
+msgstr "错误：无法发送邮件。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:942
+#: options/phrases-layouts/phrases-user-settings.php:154
+msgid "Are you sure you want to delete this comment?"
+msgstr "你确定要删除此评论吗？"
+
+#: options/class.WpdiscuzOptionsSerialized.php:943
+#: options/phrases-layouts/phrases-user-settings.php:158
+msgid "Are you sure you want to cancel this subscription?"
+msgstr "您确定要取消当前的订阅吗？"
+
+#: options/class.WpdiscuzOptionsSerialized.php:944
+#: options/phrases-layouts/phrases-user-settings.php:162
+msgid "Are you sure you want to cancel this follow?"
+msgstr "您确定要取消此关注吗？"
+
+#: options/class.WpdiscuzOptionsSerialized.php:945
+#: options/phrases-layouts/phrases-follow.php:11
+msgid "Follow this user"
+msgstr "关注此用户"
+
+#: options/class.WpdiscuzOptionsSerialized.php:946
+#: options/phrases-layouts/phrases-follow.php:15
+msgid "Unfollow this user"
+msgstr "取消关注此用户"
+
+#: options/class.WpdiscuzOptionsSerialized.php:947
+#: options/phrases-layouts/phrases-follow.php:19
+msgid "You started following this comment author"
+msgstr "你已开始关注此评论作者"
+
+#: options/class.WpdiscuzOptionsSerialized.php:948
+msgid "You stopped following this comment author."
+msgstr "您已停止关注此评论作者。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:949
+msgid "Please check your email and confirm the user following request."
+msgstr "请检查您的电子邮件并确认用户请求。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:950
+msgid "Sorry, we couldn't send confirmation email."
+msgstr "抱歉，我们无法发送确认电子邮件。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:951
+msgid "Please login to follow users."
+msgstr "请登录以关注用户。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:952
+msgid "We are sorry, but you can't follow this user."
+msgstr "很抱歉，您无法关注此用户。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:953
+msgid "Following failed. Please try again later."
+msgstr "关注失败， 请稍后再试。"
+
+#: options/class.WpdiscuzOptionsSerialized.php:954
+msgid "Confirm user following request"
+msgstr "确认用户关注请求"
+
+#: options/class.WpdiscuzOptionsSerialized.php:955
+msgid "Cancel user following request"
+msgstr "取消用户关注请求"
+
+#: options/class.WpdiscuzOptionsSerialized.php:956
+msgid "User Following Confirmation"
+msgstr "用户关注确认"
+
+#: options/class.WpdiscuzOptionsSerialized.php:957
+msgid "Confirm Follow"
+msgstr "确认关注"
+
+#: options/class.WpdiscuzOptionsSerialized.php:957
+#: options/class.WpdiscuzOptionsSerialized.php:959
+#: utils/class.WpdiscuzHelperEmail.php:520
+msgid "Cancel Follow"
+msgstr "取消关注"
+
+#: options/class.WpdiscuzOptionsSerialized.php:957
+msgid ""
+"Hi, <br/> You just started following a new user. You'll get email "
+"notification once new comment is posted by this user. <br/> Please click on "
+"\"user following confirmation\" link to confirm your request. If you believe "
+"this is an error, ignore this message and we'll never bother you again. <br/"
+"><br/><a href=\"[POST_URL]\">[POST_TITLE]</a><br/><br/><a href="
+"\"[CONFIRM_URL]\">"
+msgstr ""
+"嗨，您刚刚开始关注新用户。 一旦此用户发布新评论，您将收到电子邮件通知。 <br/>"
+"请点击“确认后的用户”链接确认您的请求。 如果您认为这是一个错误，请忽略此消息，"
+"我们将再也不会打扰您。 <br/><br/><a href=\"[POST_URL]\">[POST_TITLE]</a><br/"
+"><br/><a href=\"[CONFIRM_URL]\">"
+
+#: options/class.WpdiscuzOptionsSerialized.php:959
+msgid ""
+"Hi [FOLLOWER_NAME],<br/><br/> new comment have been posted by the "
+"<em><strong>[COMMENT_AUTHOR]</em></strong> you are following<br/><br/><a "
+"href=\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>[COMMENT_CONTENT]<br/><br/"
+"><a href=\"[CANCEL_URL]\">"
+msgstr ""
+"您好 [FOLLOWER_NAME]，<br/><br/><em> <strong>[COMMENT_AUTHOR]</em></strong>在"
+"您关注的评论发布了新评论。<br/><br/>评论网址：<a href="
+"\"[COMMENT_URL]\">[COMMENT_URL]</a><br/><br/>评论内容：[COMMENT_CONTENT]<br/"
+"><br/><a href=\"[CANCEL_URL]\">"
+
+#: options/html-addons.php:11
+msgid "wpDiscuz Addons"
+msgstr "wpDiscuz扩展"
+
+#: options/html-addons.php:19
+msgid "wpDiscuz Add-ons"
+msgstr "wpDiscuz 扩展"
+
+#: options/html-addons.php:20
+msgid "Addons Support Forum"
+msgstr "扩展支持论坛"
+
+#: options/html-addons.php:25
+msgid ""
+"All wpDiscuz addons are being developed by wpDiscuz developers at gVectors "
+"Team, those are very solid premium level extensions and come with premium "
+"support.\n"
+"                            These addons help us to keep top level "
+"development of the free wpDiscuz plugin. All essential and even dozens of "
+"extra-cool features are already available for free in core wpDiscuz. \n"
+"                            There will never be any limits, any pro and paid "
+"versions for wpDiscuz. We have another dozens of awesome features in our to-"
+"do list which will also be added for free in future releases. \n"
+"                            So the free wpDiscuz development always stays on "
+"the first priority and wpDiscuz is being extended with new free functions "
+"and features even faster than before."
+msgstr ""
+"所有wpDiscuz插件都是由gVectors团队的wpDiscuz开发人员开发的，这些是非常可靠的"
+"高级扩展，并提供高级支持。\n"
+"                             这些插件帮助我们保持免费wpDiscuz插件的顶级开"
+"发。 核心wpDiscuz中已经免费提供所有必需甚至数十种超酷功能。\n"
+"                             对于wpDiscuz，永远不会有任何限制，任何专业版和付"
+"费版。 我们的待办事项列表中还有其他几十个很棒的功能，这些功能也将在未来的版本"
+"中免费添加。\n"
+"                             因此，免费的wpDiscuz开发始终保持优先级，并且"
+"wpDiscuz正在扩展，新的自由功能和功能甚至比以前更快。"
+
+#: options/html-addons.php:31
+msgid " Thank you!<br/> Sincerely yours,<br/> gVectors Team&nbsp;"
+msgstr "谢谢!<br/>此致，<br/> gVectors团队&nbsp;"
+
+#: options/html-addons.php:41
+msgid "View wpDiscuz Addons Bundle"
+msgstr "查看wpDiscuz扩展包"
+
+#: options/html-addons.php:41
+msgid "wpDiscuz Addons Bundle"
+msgstr "wpDiscuz 扩展包"
+
+#: options/html-addons.php:56
+msgid "Installed"
+msgstr "已安装"
+
+#: options/html-addons.php:61
+msgid "at least"
+msgstr "至少"
+
+#: options/html-addons.php:64
+msgid "More Info &raquo;"
+msgstr "阅读更多 &raquo;"
+
+#: options/html-addons.php:66
+msgid "Live Preview | Buy"
+msgstr "在线预览| 购买"
+
+#: options/html-addons.php:74
+msgid "More information about"
+msgstr "更多信息关于"
+
+#: options/html-options.php:10
+msgid "wpDiscuz General Settings"
+msgstr "wpDiscuz通用设置"
+
+#: options/html-options.php:19
+msgid "Need More Features?"
+msgstr "需要更多功能？"
+
+#: options/html-options.php:20
+msgid "Documentation"
+msgstr "文档"
+
+#: options/html-options.php:21
+msgid "Support"
+msgstr "支持"
+
+#: options/html-options.php:54 options/html-phrases.php:21
+msgid "General"
+msgstr "通用"
+
+#: options/html-options.php:55
+msgid "Comment Form"
+msgstr "评论表单"
+
+#: options/html-options.php:56
+msgid "Comment List"
+msgstr "评论列表"
+
+#: options/html-options.php:57
+#: options/options-layouts/settings-live-update.php:7
+msgid "Live Update"
+msgstr "实时更新"
+
+#: options/html-options.php:59
+msgid "Subscription"
+msgstr "订阅"
+
+#: options/html-options.php:59
+msgid "and Postmatic"
+msgstr "以及Postmatic"
+
+#: options/html-options.php:60
+msgid "Styling"
+msgstr "风格"
+
+#: options/html-options.php:61
+msgid "Cache"
+msgstr "缓存"
+
+#: options/html-options.php:62 options/options-layouts/settings-social.php:7
+msgid "Social Login &amp; Share"
+msgstr "社交登录和分享"
+
+#: options/html-options.php:63
+#: options/options-layouts/settings-integrations.php:7
+msgid "Integrations"
+msgstr "集成"
+
+#: options/html-options.php:149
+msgid "Reset Options"
+msgstr "重置选项"
+
+#: options/html-options.php:151
+msgid "Remove vote data"
+msgstr "移除投票数据"
+
+#: options/html-options.php:152 options/html-phrases.php:77
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: options/html-phrases.php:10
+msgid "wpDiscuz Front-end Phrases"
+msgstr "WpDiscuz前端短语"
+
+#: options/html-phrases.php:23
+msgid "Comment"
+msgstr "评论"
+
+#: options/html-phrases.php:24
+msgid "Date/Time"
+msgstr "日期 / 时间"
+
+#: options/html-phrases.php:26
+msgid "Notification"
+msgstr "提醒"
+
+#: options/html-phrases.php:27
+msgid "Follow"
+msgstr "关注"
+
+#: options/html-phrases.php:28
+#: options/phrases-layouts/phrases-social-login.php:7
+msgid "Social Login"
+msgstr "社交登陆"
+
+#: options/html-phrases.php:29
+msgid "User Settings"
+msgstr "用户设置"
+
+#: options/html-phrases.php:30
+msgid "Errors"
+msgstr "错误"
+
+#: options/html-phrases.php:76
+msgid "Reset Phrases"
+msgstr "重置短语"
+
+#: options/html-tools.php:10
+msgid "wpDiscuz Tools"
+msgstr "wpDiscuz工具"
+
+#: options/html-tools.php:15 options/tools-layouts/options-export.php:7
+msgid "Export options"
+msgstr "导出选项"
+
+#: options/html-tools.php:16 options/tools-layouts/options-import.php:7
+msgid "Import options"
+msgstr "导入选项"
+
+#: options/html-tools.php:17 options/tools-layouts/subscriptions-import.php:9
+msgid "Import subscriptions"
+msgstr "导入订阅"
+
+#: options/html-tools.php:18 utils/deactivation-reason-modal.php:57
+msgid "Other"
+msgstr "其他"
+
+#: options/options-layouts/settings-addons.php:20
+msgid ""
+"Here you can find wpDiscuz Addons' setting options in vertical subTabs with "
+"according addon titles. All wpDiscuz addons are listed on wpDiscuz"
+msgstr ""
+"在这里，您可以使用根据插件标题在垂直子标签中找到wpDiscuz Addons的设置选项。 "
+"所有wpDiscuz插件都列在wpDiscuz上"
+
+#: options/options-layouts/settings-addons.php:20
+msgid "Addons subMenu"
+msgstr "扩展子菜单"
+
+#: options/options-layouts/settings-addons.php:20
+msgid ""
+"We'll add new free and paid addons with almost every wpDiscuz release. There "
+"will be dozens of very useful addons in near future. Currently wpDiscuz "
+"consists of about 70 free features/addons like \"Live Update\", \"First "
+"comment redirection\", \"Comment sorting\", \"Simple CAPTCHA\", \"AJAX "
+"Pagination\", \"Lazy Load\", \"Comment Likes\", \"Comment Share\" and dozens "
+"of other addons and there will be more. All new and free addons will be "
+"built-in with wpDiscuz plugin and all paid addons will be listed separately "
+"on"
+msgstr ""
+"我们将添加新的免费和付费插件与几乎每一个wpDiscuz发布。在不久的将来会有几十个"
+"非常有用的插件。目前，wpDiscuz包含了大约70个免费的功能/插件，比如“实时更"
+"新”、“第一个评论重定向”、“评论排序”、“简单验证码”、“AJAX分页”、“延迟加"
+"载”、“喜欢评论”、“分享评论”以及其他几十个插件，将来还会有更多。所有新的和免费"
+"的插件将内置wpDiscuz插件和所有付费插件将分别列出"
+
+#: options/options-layouts/settings-cache.php:10
+msgid "Gravatar Cache"
+msgstr "Gravatar缓存"
+
+#: options/options-layouts/settings-cache.php:15
+msgid "Enable Gravatar caching"
+msgstr "启用Gravatar缓存"
+
+#: options/options-layouts/settings-cache.php:17
+msgid ""
+"It seems on of important functions (\"file_get_contents\", "
+"\"file_put_contents\") of php is not exists.<br/> Please enable these "
+"functions in your server settings to use gravatar caching feature."
+msgstr ""
+"似乎php的重要函数（“file_get_contents”，“file_put_contents”）不存在。<br/>请"
+"在服务器设置中启用这些功能以使用gravatar缓存功能。"
+
+#: options/options-layouts/settings-cache.php:27
+msgid "Caching method"
+msgstr "缓存方法"
+
+#: options/options-layouts/settings-cache.php:30
+msgid "Runtime"
+msgstr "运行时间"
+
+#: options/options-layouts/settings-cache.php:31
+msgid "Cron job"
+msgstr "计划任务"
+
+#: options/options-layouts/settings-cache.php:37
+msgid "Cache avatars for \"X\" days"
+msgstr "缓存“X”天的头像"
+
+#: options/options-layouts/settings-cache.php:45
+#: options/options-layouts/settings-cache.php:48
+msgid "Purge expired caches"
+msgstr "清除过期的缓存"
+
+#: options/options-layouts/settings-cache.php:52
+#: options/options-layouts/settings-cache.php:55
+msgid "Purge all caches"
+msgstr "清除所有缓存"
+
+#: options/options-layouts/settings-cache.php:59
+msgid "Statistics Cache"
+msgstr "统计缓存"
+
+#: options/options-layouts/settings-cache.php:63
+#: options/options-layouts/settings-cache.php:66
+msgid "Purge statistics caches"
+msgstr "清除统计缓存"
+
+#: options/options-layouts/settings-customfields.php:12
+msgid "Google Map API Key"
+msgstr "谷歌地图API"
+
+#: options/options-layouts/settings-form.php:7
+msgid "Comment Form Settings"
+msgstr "评论表单设置"
+
+#: options/options-layouts/settings-form.php:12
+msgid "Hide Header Text"
+msgstr "隐藏头部文本"
+
+#: options/options-layouts/settings-form.php:13
+msgid ""
+"This option hides \"Leave Reply\" header text on top of comment form. You "
+"can change this text in Comments > Forms admin page."
+msgstr ""
+"此选项会在评论表单上隐藏“发送回复”标题文本。 您可以在“评论”>“表单管理”页面中"
+"更改此文本。"
+
+#: options/options-layouts/settings-form.php:23
+msgid "Show logged-in user name and logout link on top of main form"
+msgstr "在主表上显示登入的用户名以及登出链接"
+
+#: options/options-layouts/settings-form.php:33
+msgid "Comment Form components"
+msgstr "评论表单组件"
+
+#: options/options-layouts/settings-form.php:34
+msgid ""
+"These components can be found on the main comment form. The \"My Content and "
+"Settings\" button is located on the top left side, under the \"Leave Reply\" "
+"header text. The \"Discussion Statistic\" and \"Recent Comment Authors\" "
+"sections are located under the main comment form fields ont the left and "
+"right sides accordingly."
+msgstr ""
+"这些组件可以在主评论表中找到。 “我的内容和设置”按钮位于左侧，“请求回复”标题文"
+"本下方。 “讨论统计”和“最近的评论作者”部分位于左侧和右侧的主要评论表格字段下。"
+
+#: options/options-layouts/settings-form.php:43
+msgid "Hide \"Please login to comment\" text"
+msgstr "隐藏“请登录后评论”文字"
+
+#: options/options-layouts/settings-form.php:50
+msgid "Hide \"My Content and Settings\" button"
+msgstr "隐藏“我的内容和设置”按钮"
+
+#: options/options-layouts/settings-form.php:57
+msgid "Hide \"Discussion Statistic\" section"
+msgstr "隐藏“评论统计”部分"
+
+#: options/options-layouts/settings-form.php:64
+msgid "Hide \"Recent Comment Authors\" section"
+msgstr "隐藏“最近的评论作者”部分"
+
+#: options/options-layouts/settings-form.php:73
+msgid "Keep guest commenter credentials in browser cookies for x days"
+msgstr "为游客评论人的浏览器cookie中的密钥保留 x 天"
+
+#: options/options-layouts/settings-form.php:75
+msgid ""
+"wpDiscuz uses WordPress function to keep guest Name, Email and Website "
+"information in cookies to fill according fields of comment form on next "
+"commenting time."
+msgstr ""
+"wpDiscuz使用wordpress函数在cookie中保留访客姓名，电子邮件和网站信息，以便在下"
+"一个评论是自动填写评论表单的字段。"
+
+#: options/options-layouts/settings-form.php:76
+msgid "Set this option value -1 to make it unlimited."
+msgstr "设置-1则无限制。"
+
+#: options/options-layouts/settings-form.php:77
+msgid "Set this option value 0 to clear those data when user closes browser."
+msgstr "设置0则当用户关闭浏览器时清空数据。"
+
+#: options/options-layouts/settings-form.php:87
+msgid "Comment author name length (for guests only)"
+msgstr "评论人名字最小长度（仅用于游客）"
+
+#: options/options-layouts/settings-form.php:91
+#: options/options-layouts/settings-form.php:106
+msgid "Min"
+msgstr "最小"
+
+#: options/options-layouts/settings-form.php:94
+#: options/options-layouts/settings-form.php:109
+msgid "Max"
+msgstr "最大"
+
+#: options/options-layouts/settings-form.php:101
+msgid "Comment text length"
+msgstr "评论文本长度"
+
+#: options/options-layouts/settings-form.php:102
+msgid ""
+"Allows to set minimum and maximum number of chars can be inserted in comment "
+"textarea. Leave the max value empty to remove the limit."
+msgstr ""
+"允许设置可在评论文本域中插入的最小和最大字符数。 将最大值保留为空以删除限制。"
+
+#: options/options-layouts/settings-form.php:116
+msgid "Captcha generation type"
+msgstr "验证码生成类型"
+
+#: options/options-layouts/settings-form.php:121
+msgid "File system"
+msgstr "文件系统"
+
+#: options/options-layouts/settings-form.php:122
+msgid "WP Session"
+msgstr "WP会话"
+
+#: options/options-layouts/settings-form.php:129
+msgid "Invisible Spam Protection"
+msgstr "隐形垃圾邮件保护"
+
+#: options/options-layouts/settings-form.php:131
+msgid ""
+"You should purge caches after each key generation otherwise the plugin may "
+"work not correctly"
+msgstr "您应该在每个密钥生成后清除缓存，否则插件可能无法正常工作"
+
+#: options/options-layouts/settings-form.php:134
+msgid "Leave the field empty if you don't want to use this feature"
+msgstr "如果您不想使用此功能，请将该字段留空"
+
+#: options/options-layouts/settings-form.php:139
+msgid "Generate"
+msgstr "生成"
+
+#: options/options-layouts/settings-form.php:145
+msgid "Display note about Invisible Spam Protection"
+msgstr "显示有关隐形垃圾邮件防护的说明"
+
+#: options/options-layouts/settings-form.php:146
+msgid ""
+"wpDiscuz has built-in invisible antispam protection based on server side and "
+"front-end unique key comparation. By default wpDiscuz display a small note "
+"in simple CAPTCHA area, saying the comment form is under antispam "
+"protection. The note text can be managed in Comments > Phrases > Form tab."
+msgstr ""
+"wpDiscuz内置了基于服务器端和前端唯一密钥比较的隐形反垃圾邮件保护。 默认情况"
+"下，wpDiscuz在简单的验证码区域显示一个小注释，表示评论表单受反垃圾邮件保护。 "
+"可以在“评论”>“短语”>“表单”选项卡中管理注释文本。"
+
+#: options/options-layouts/settings-form.php:156
+msgid "Enable Quicktags"
+msgstr "启用快速标签"
+
+#: options/options-layouts/settings-form.php:157
+msgid ""
+"Quicktag is a on-click button that inserts HTML in to comment textarea. For "
+"example the \"b\" Quicktag will insert the HTML bold tags < b > < /b >."
+msgstr ""
+"快捷标签是一个单击HTML按钮，将HTML插入到评论文本中。例如，“B”快捷标签将插入"
+"HTML粗体标签<b> < /b>。"
+
+#: options/options-layouts/settings-form.php:167
+msgid "Enable automatic image URL to image HTML conversion"
+msgstr "启用自动的图片URL到图片HTML的转换"
+
+#: options/options-layouts/settings-form.php:177
+msgid "Edit Button - Allow comment editing for"
+msgstr "编辑按钮 - 允许评论编辑给"
+
+#: options/options-layouts/settings-form.php:182
+msgid "Do not allow"
+msgstr "不允许"
+
+#: options/options-layouts/settings-form.php:183
+#: options/options-layouts/settings-form.php:184
+#: options/options-layouts/settings-live-update.php:54
+#: options/options-layouts/settings-live-update.php:55
+#: options/options-layouts/settings-live-update.php:56
+msgid "Minutes"
+msgstr "分钟"
+
+#: options/options-layouts/settings-form.php:185
+#: options/phrases-layouts/phrases-datetime.php:35
+msgid "Hour"
+msgstr "小时"
+
+#: options/options-layouts/settings-form.php:186
+#: options/options-layouts/settings-form.php:187
+msgid "Hours"
+msgstr "小时"
+
+#: options/options-layouts/settings-form.php:188
+msgid "Unlimit"
+msgstr "无限"
+
+#: options/options-layouts/settings-form.php:195
+msgid "Stick Button - Stick a comment thread"
+msgstr "置顶按钮-置顶评论对话"
+
+#: options/options-layouts/settings-form.php:205
+msgid "Close Button - Close a comment thread"
+msgstr "关闭按钮-关闭一条评论对话"
+
+#: options/options-layouts/settings-form.php:215
+msgid "Enable drop animation for comment form and subscription bar"
+msgstr "为评论表单和订阅栏启用下拉动画"
+
+#: options/options-layouts/settings-general.php:7
+msgid "General Settings"
+msgstr "通用设置"
+
+#: options/options-layouts/settings-general.php:11
+msgid "Enable wpDiscuz on home page"
+msgstr "在主页上启用wpDiscuz"
+
+#: options/options-layouts/settings-general.php:19
+msgid "Use WordPress native AJAX functions"
+msgstr "使用WordPress自带的AJAX功能"
+
+#: options/options-layouts/settings-general.php:21
+msgid ""
+"By disabling this option you're automatically enabling wpDiscuz custom AJAX "
+"functions, which are many times faster that the default WordPress functions. "
+"Just make sure it doesn't conflict with your plugins."
+msgstr ""
+"通过禁用此选项，您将自动启用wpDiscuz自定义AJAX函数，这些函数比默认WordPress函"
+"数快许多倍。 只要确保它不会与您的插件冲突。"
+
+#: options/options-layouts/settings-general.php:31
+msgid "Load scripts in footer"
+msgstr "在站点页脚加载脚本"
+
+#: options/options-layouts/settings-general.php:41
+msgid "Use guest email to detect registered account"
+msgstr "使用游客邮箱匹配已注册账户"
+
+#: options/options-layouts/settings-general.php:43
+msgid ""
+"Sometimes registered users comment as guest using the same email address. "
+"wpDiscuz can detect the account role using guest email and display commenter "
+"label correctly."
+msgstr ""
+"有时注册用户未登录时使用相同的邮箱来评论。wpDiscuz可以基于游客邮箱探测账户并"
+"正确显示评论人。"
+
+#: options/options-layouts/settings-general.php:53
+msgid "Secure comment content in HTTPS protocol."
+msgstr "使用HTTPS协议保护评论内容。"
+
+#: options/options-layouts/settings-general.php:55
+msgid ""
+"This option detects images and other contents with non-https source URLs and "
+"fix according to your selected logic."
+msgstr "此选项使用非https源URL检测图像和其他内容，并根据您选择的逻辑进行修复。"
+
+#: options/options-layouts/settings-general.php:63
+msgid "Replace non-https content to simple link URLs"
+msgstr "将非https内容替换为简单链接网址"
+
+#: options/options-layouts/settings-general.php:67
+msgid ""
+"Just replace http protocols to https (https may not be supported by content "
+"provider)"
+msgstr "只需将http协议替换为https（内容提供商可能不支持https）"
+
+#: options/options-layouts/settings-general.php:71
+msgid "Ignore non-https content"
+msgstr "忽略非https内容"
+
+#: options/options-layouts/settings-general.php:79
+msgid "Redirect first commenter to"
+msgstr "将第一个评论人重定向至"
+
+#: options/options-layouts/settings-general.php:86
+msgid "Do not redirect"
+msgstr "不重定向"
+
+#: options/options-layouts/settings-general.php:95
+msgid "Use WordPress Date/Time format"
+msgstr "使用WordPress日期/时间格式"
+
+#: options/options-layouts/settings-general.php:96
+msgid ""
+"wpDiscuz shows Human Readable date format. If you check this option it'll "
+"show the date/time format set in WordPress General Settings."
+msgstr ""
+"wpDiscuz显示人机友好的日期格式。如果你勾选此项，将按WordPress通用设置来显示。"
+
+#: options/options-layouts/settings-general.php:102
+msgid "Current Wordpress date/time format"
+msgstr "WordPress当前日期/时间格式"
+
+#: options/options-layouts/settings-general.php:109
+msgid "Use Plugin .PO/.MO files"
+msgstr "使用插件的 .PO/.MO 文件"
+
+#: options/options-layouts/settings-general.php:110
+msgid ""
+"wpDiscuz phrase system allows you to translate all front-end phrases. "
+"However if you have a multi-language website it'll not allow you to add more "
+"than one language translation. The only way to get it is the plugin "
+"translation files (.PO / .MO). If wpDiscuz has the languages you need you "
+"should check this option to disable phrase system and it'll automatically "
+"translate all phrases based on language files according to current language."
+msgstr ""
+"wpDiscuz短语设置允许你翻译所有前端字段。但是，如果你有多语言站点那么你需要使"
+"用 (.PO / .MO)翻译文件。wpDiscuz将根据当前语言显示前端字段。"
+
+#: options/options-layouts/settings-general.php:120
+msgid ""
+"Help wpDiscuz to grow allowing people to recognize which comment plugin you "
+"use"
+msgstr "显示wpDiscuz插件标识，帮助wpDiscuz成长"
+
+#: options/options-layouts/settings-general.php:122
+msgid ""
+"Please check this option on to help wpDiscuz get more popularity as your "
+"thank to the hard work we do for you totally free. This option adds a very "
+"small (16x16px) icon under the comment section which will allow your site "
+"visitors recognize the name of comment solution you use."
+msgstr ""
+"勾选此项，以帮助wpDiscuz更受欢迎，因为您感谢我们为您完全免费的努力工作。此选"
+"项在评论部分添加了一个非常小的（16x16px）图标，这将允许您的网站访问者识别您使"
+"用的评论插件名称。"
+
+#: options/options-layouts/settings-general.php:127
+msgid "Thank you!"
+msgstr "谢谢！"
+
+#: options/options-layouts/settings-integrations.php:14
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: options/options-layouts/settings-integrations.php:15
+msgid "Users Ultra"
+msgstr "Users Ultra"
+
+#: options/options-layouts/settings-integrations.php:16
+msgid "User Pro"
+msgstr "User Pro"
+
+#: options/options-layouts/settings-integrations.php:17
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#: options/options-layouts/settings-integrations.php:18
+msgid "MyCred"
+msgstr "MyCred"
+
+#: options/options-layouts/settings-integrations.php:19
+msgid "PeepSo"
+msgstr "PeepSo"
+
+#: options/options-layouts/settings-integrations.php:24
+#: options/options-layouts/settings-integrations.php:42
+#: options/options-layouts/settings-integrations.php:60
+#: options/options-layouts/settings-integrations.php:91
+#: options/options-layouts/settings-integrations.php:125
+#: options/options-layouts/settings-integrations.php:154
+msgid "Please add the code below in current active theme's functions.php file"
+msgstr "请在当前活动主题的functions.php文件中添加以下代码"
+
+#: options/options-layouts/settings-integrations.php:25
+msgid ""
+"This code will integrate BuddyPress profile URL with wpDiscuz. BuddyPress "
+"Display Names and Avatars will be integrated automatically."
+msgstr ""
+"此代码将BuddyPress个人资料网址与wpDiscuz集成。 BuddyPress显示名称和头像将自动"
+"集成。"
+
+#: options/options-layouts/settings-integrations.php:43
+msgid ""
+"This code will integrate Users Ultra profile URL with wpDiscuz. Users Ultra "
+"Display Names and Avatars will be integrated automatically."
+msgstr ""
+"此代码将Users Ultra个人资料网址与wpDiscuz集成。 Users Ultra显示名称和头像将自"
+"动集成。"
+
+#: options/options-layouts/settings-integrations.php:61
+msgid ""
+"This code will integrate User Pro profile URL with wpDiscuz. User Pro "
+"Display Names and Avatars will be integrated automatically."
+msgstr ""
+"此代码将User Pro个人资料网址与wpDiscuz集成。 User Pro显示名称和头像将自动集"
+"成。"
+
+#: options/options-layouts/settings-integrations.php:92
+msgid ""
+"This code consists of two parts, which will integrate Ultimate Member "
+"profile Display Name and Profile URL with wpDiscuz. UM Avatars will be "
+"integrated automatically."
+msgstr ""
+"此代码由两部分组成，它们将Ultimate Member显示名称和个人资料网址与wpDiscuz集"
+"成。 UM 头像将自动集成。"
+
+#: options/options-layouts/settings-integrations.php:126
+msgid ""
+"This code will integrate MyCred User Ranks and Badges under comment author "
+"avatar."
+msgstr "此代码将在评论作者头像下集成MyCred用户排名和徽章。"
+
+#: options/options-layouts/settings-integrations.php:155
+msgid "This code will integrate PeepSo profile url with wpDiscuz."
+msgstr "此代码将PeepSo个人资料网址与wpDiscuz集成。"
+
+#: options/options-layouts/settings-list.php:7
+msgid "Comment List Settings"
+msgstr "评论列表设置"
+
+#: options/options-layouts/settings-list.php:12
+msgid "Display only parent comments and <u>view replies &or;</u> button"
+msgstr "仅显示主评论和<u>查看回复 &or;</u>按钮"
+
+#: options/options-layouts/settings-list.php:14
+msgid ""
+"If this option is enabled only parent comment will be displayed. This "
+"increases page load speed and keeps pages light. If visitor wants to read "
+"replies he/she just need to click on [view replies (12)] button located on "
+"all parent comments which have replies."
+msgstr ""
+"如果启用此选项，则仅显示父评论。 这样可以提高页面加载速度并保持页面清晰。 如"
+"果访问者想要阅读回复，他/她只需要点击所有有回复的父评论上的[查看回复（12）]按"
+"钮。"
+
+#: options/options-layouts/settings-list.php:25
+msgid "Show sorting buttons"
+msgstr "显示排序按钮"
+
+#: options/options-layouts/settings-list.php:26
+msgid ""
+"This option enables comment sorting buttons (newest | oldest | most voted). "
+"Sorting buttons are not available for the default comments pagination type "
+"[1][2][3]... It's only active for [Load more] and other AYAX pagination "
+"types."
+msgstr ""
+"此选项启用评论排序按钮（最新|最旧|最多投票）。 排序按钮不适用于默认评论分页类"
+"型[1] [2] [3] ...它仅对[加载更多]和其他AYAX分页类型有效。"
+
+#: options/options-layouts/settings-list.php:36
+msgid "Set comments ordering to \"Most voted\" by default "
+msgstr "设置默认评论顺序为\"投票最多\""
+
+#: options/options-layouts/settings-list.php:46
+msgid "Reverse child comments order"
+msgstr "反向子评论排序"
+
+#: options/options-layouts/settings-list.php:56
+msgid "Comments loading/pagination type"
+msgstr "评论加载/分页类型"
+
+#: options/options-layouts/settings-list.php:58
+msgid ""
+"You can manage the number of comments for [Load more] option in Settings > "
+"Discussion page, using \"Break comments into pages with [X] top level "
+"comments per page\" option. To show the default Wordpress comment pagination "
+"you should enable the checkbox on bigining of the same option."
+msgstr ""
+"您可以在设置 -> 讨论 页面，为[加载更多]管理评论数量，使用\"每页一级评论数量达"
+"到 [X] 时分页\" 的选项。若要显示wordpress默认的评论分页，您需要启用相同的选"
+"项。"
+
+#: options/options-layouts/settings-list.php:64
+#: options/options-layouts/settings-list.php:66
+msgid "[Load more] Button"
+msgstr "[加载更多] 按钮"
+
+#: options/options-layouts/settings-list.php:68
+#: options/options-layouts/settings-list.php:70
+msgid "[Load rest of all comments] Button"
+msgstr "[加载剩余评论] 按钮"
+
+#: options/options-layouts/settings-list.php:72
+#: options/options-layouts/settings-list.php:74
+msgid "Load all comments"
+msgstr "加载所有评论"
+
+#: options/options-layouts/settings-list.php:76
+#: options/options-layouts/settings-list.php:78
+msgid "Lazy load comments on scrolling"
+msgstr "滚动式延迟加载评论"
+
+#: options/options-layouts/settings-list.php:86
+msgid ""
+"The number of words before breaking comment text and showing \"Read more\" "
+"link"
+msgstr "评论缩略文字长度。超过此字数则显示\"阅读更多\" 链接"
+
+#: options/options-layouts/settings-list.php:88
+msgid "Set this option value 0, to turn off comment text breaking function."
+msgstr "设置为0，则关闭评论文本缩略功能。"
+
+#: options/options-layouts/settings-list.php:98
+msgid "Comment components"
+msgstr "评论组件"
+
+#: options/options-layouts/settings-list.php:103
+msgid "Hide comment link"
+msgstr "隐藏评论链接"
+
+#: options/options-layouts/settings-list.php:106
+msgid "Hide comment date"
+msgstr "隐藏评论日期"
+
+#: options/options-layouts/settings-list.php:109
+msgid "Hide Commenter Labels"
+msgstr "隐藏评论人标签"
+
+#: options/options-layouts/settings-list.php:118
+msgid "Hide Voting buttons"
+msgstr "隐藏投票按钮"
+
+#: options/options-layouts/settings-list.php:127
+msgid "Comment voting buttons icon"
+msgstr "评论投票按钮图标"
+
+#: options/options-layouts/settings-list.php:146
+msgid "Comment voting statistic mode"
+msgstr "评论投票统计模式"
+
+#: options/options-layouts/settings-list.php:150
+msgid "total count"
+msgstr "合计数"
+
+#: options/options-layouts/settings-list.php:151
+msgid "separate count"
+msgstr "区分计数"
+
+#: options/options-layouts/settings-list.php:158
+msgid "Allow guests to vote on comments"
+msgstr "允许游客为评论投票"
+
+#: options/options-layouts/settings-list.php:168
+msgid "Display Ratings"
+msgstr "显示评分"
+
+#: options/options-layouts/settings-list.php:173
+msgid "Before Content"
+msgstr "内容之前"
+
+#: options/options-layouts/settings-list.php:175
+msgid "After Content"
+msgstr "内容之后"
+
+#: options/options-layouts/settings-list.php:176
+msgid "Display ratings on none singular pages"
+msgstr "在任何单一页面上显示评级"
+
+#: options/options-layouts/settings-list.php:183
+msgid "Disable Profiles URL"
+msgstr "禁用个人资料网址"
+
+#: options/options-layouts/settings-list.php:193
+msgid "Highlight Unread Comments"
+msgstr "突出显示未读评论"
+
+#: options/options-layouts/settings-live-update.php:12
+msgid "Live update options"
+msgstr "实时更新选项"
+
+#: options/options-layouts/settings-live-update.php:13
+msgid ""
+"wpDiscuz live update is very light and doesn't overload your server. However "
+"we recommend to monitor your server resources if you're on a Shared hosting "
+"plan. There are some very weak hosting plans which may not be able to "
+"perform very frequently live update requests. If you found some issue you "
+"can set the option below 30 seconds or more."
+msgstr ""
+"wpDiscuz实时更新非常轻，不会使服务器过载。 但是，如果您使用共享主机方案，我们"
+"建议您监控服务器资源。 有一些非常弱的托管计划可能无法执行非常频繁的实时更新请"
+"求。 如果您发现某些问题，可以将选项设置为低于30秒或更长时间。"
+
+#: options/options-layouts/settings-live-update.php:18
+msgid "Never update"
+msgstr "永不更新"
+
+#: options/options-layouts/settings-live-update.php:20
+msgid "Turn off \"Live Update\" function"
+msgstr "关闭 \"实时更新\" 功能"
+
+#: options/options-layouts/settings-live-update.php:22
+msgid "Show new comment/reply buttons to update manualy"
+msgstr "为手动更新显示新评论/回复按钮"
+
+#: options/options-layouts/settings-live-update.php:24
+msgid "Always check for new comments and show update buttons"
+msgstr "总是检查新评论并显示更新按钮"
+
+#: options/options-layouts/settings-live-update.php:26
+msgid "Always update"
+msgstr "总是更新"
+
+#: options/options-layouts/settings-live-update.php:28
+msgid "Always check for new comments and update automatically"
+msgstr "总是检查新评论并自动更新"
+
+#: options/options-layouts/settings-live-update.php:36
+msgid "Disable live update for guests"
+msgstr "为游客禁用实时更新"
+
+#: options/options-layouts/settings-live-update.php:45
+msgid "Update comment list every"
+msgstr "更新评论列表，每"
+
+#: options/options-layouts/settings-live-update.php:50
+#: options/options-layouts/settings-live-update.php:51
+#: options/options-layouts/settings-live-update.php:52
+msgid "Seconds"
+msgstr "秒"
+
+#: options/options-layouts/settings-live-update.php:53
+#: options/phrases-layouts/phrases-datetime.php:43
+msgid "Minute"
+msgstr "分钟"
+
+#: options/options-layouts/settings-social.php:12
+msgid "User agreement prior to a social login action"
+msgstr "社交登录操作之前的用户协议"
+
+#: options/options-layouts/settings-social.php:13
+msgid ""
+"If this option is enabled, all Social Login buttons become not-clickable "
+"until user accept automatic account creation process based on his/her Social "
+"Network Account shared information (email, name). This checkbox and "
+"appropriate information will be displayed when user click on a social login "
+"button, prior to the login process. This extra step is added to comply with "
+"the GDPR"
+msgstr ""
+"如果启用此选项，则在用户接受基于其社交网络帐户共享信息（电子邮件，姓名）的自"
+"动帐户创建过程之前，所有社交登录按钮都将变为不可点击。 当用户在登录过程之前单"
+"击社交登录按钮时，将显示此复选框和相应信息。 添加此额外步骤以符合GDPR"
+
+#: options/options-layouts/settings-social.php:13
+msgid ""
+"The note text and the label of this checkbox can be managed in Comments > "
+"Phrases > Social Login tab."
+msgstr ""
+"注释文本和此复选框的标签可以在“评论”>“短语”>“社交登录”选项卡中进行管理。"
+
+#: options/options-layouts/settings-social.php:23
+msgid "Display social login buttons on reply forms"
+msgstr "在回复表单上显示社交登录按钮"
+
+#: options/options-layouts/settings-social.php:37
+msgid "Facebook"
+msgstr "Facebook"
+
+#: options/options-layouts/settings-social.php:43
+msgid ""
+"To start using Facebook Login and Share Buttons you should get Facebook "
+"Application Key and Secret for your website. Please follow to this"
+msgstr ""
+"要开始使用Facebook登录和共享按钮，您应该获得您的网站的Facebook应用程序密钥和"
+"秘密。 请按照这个"
+
+#: options/options-layouts/settings-social.php:43
+#: options/options-layouts/settings-social.php:102
+#: options/options-layouts/settings-social.php:150
+#: options/options-layouts/settings-social.php:190
+#: options/options-layouts/settings-social.php:237
+msgid "instruction &raquo;"
+msgstr "说明操作 &raquo;"
+
+#: options/options-layouts/settings-social.php:44
+msgid "Valid OAuth Redirect URI"
+msgstr "有效的OAuth重定向URI"
+
+#: options/options-layouts/settings-social.php:50
+#: options/options-layouts/settings-social.php:109
+#: options/options-layouts/settings-social.php:157
+#: options/options-layouts/settings-social.php:197
+#: options/options-layouts/settings-social.php:244
+msgid "Enable Login Button"
+msgstr "启用登录按钮"
+
+#: options/options-layouts/settings-social.php:60
+msgid "Use Facebook OAuth2"
+msgstr "使用 Facebook OAuth2"
+
+#: options/options-layouts/settings-social.php:61
+msgid ""
+"If you enable this option, please make sure you've inserted the Valid OAuth "
+"Redirect URI in according field when you create Facebook Login App. Your "
+"website OAuth Redirect URI is displayed above."
+msgstr ""
+"如果启用此选项，请确保在创建 Facebook Login App 时在相应的字段中插入了有效的"
+"OAuth重定向URI。你的网站OAuth重定向URI显示在上方。"
+
+#: options/options-layouts/settings-social.php:71
+#: options/options-layouts/settings-social.php:118
+#: options/options-layouts/settings-social.php:166
+#: options/options-layouts/settings-social.php:169
+#: options/options-layouts/settings-social.php:206
+#: options/options-layouts/settings-social.php:253
+msgid "Enable Share Button"
+msgstr "启用分享按钮"
+
+#: options/options-layouts/settings-social.php:80
+#: options/options-layouts/settings-social.php:83
+#: options/options-layouts/settings-social.php:262
+#: options/options-layouts/settings-social.php:264
+msgid "Aplication ID"
+msgstr "Aplication ID"
+
+#: options/options-layouts/settings-social.php:87
+#: options/options-layouts/settings-social.php:90
+#: options/options-layouts/settings-social.php:274
+#: options/options-layouts/settings-social.php:276
+msgid "Aplication Secret"
+msgstr "Aplication Secret"
+
+#: options/options-layouts/settings-social.php:96
+msgid "Twitter"
+msgstr "Twitter"
+
+#: options/options-layouts/settings-social.php:102
+msgid ""
+"To start using Twitter Login Button you should get Consumer Key and Secret "
+"for your website. Please follow to this"
+msgstr ""
+"要开始使用Twitter登录按钮，您应该获得您的网站的消费者密钥和秘密。 请按照这个"
+
+#: options/options-layouts/settings-social.php:103
+msgid "Callback URL"
+msgstr "回调网址"
+
+#: options/options-layouts/settings-social.php:127
+#: options/options-layouts/settings-social.php:129
+msgid "Consumer Key (API Key)"
+msgstr "Consumer Key (API Key)"
+
+#: options/options-layouts/settings-social.php:133
+#: options/options-layouts/settings-social.php:136
+msgid "Consumer Secret (API Secret)"
+msgstr "Consumer Secret (API Secret)"
+
+#: options/options-layouts/settings-social.php:144
+msgid "Google +"
+msgstr "Google +"
+
+#: options/options-layouts/settings-social.php:150
+msgid ""
+"To start using Google+ Login Button you should get Client ID for your "
+"website. Please follow to this"
+msgstr "要开始使用Google+登录按钮，您应该获得您网站的客户ID。 请按照这个"
+
+#: options/options-layouts/settings-social.php:151
+msgid "Authorized JavaScript Sources / Permitted URI redirects"
+msgstr "授权的JavaScript源/允许的URI重定向"
+
+#: options/options-layouts/settings-social.php:175
+#: options/options-layouts/settings-social.php:177
+msgid "Client ID"
+msgstr "客户端ID"
+
+#: options/options-layouts/settings-social.php:184
+msgid "VK"
+msgstr "VK"
+
+#: options/options-layouts/settings-social.php:190
+msgid ""
+"To start using VK Login Button you should get Application ID and Secure Key. "
+"Please follow to this "
+msgstr "要开始使用VK登录按钮，您应该获得应用程序ID和安全密钥。 请按照这个 "
+
+#: options/options-layouts/settings-social.php:191
+#: options/options-layouts/settings-social.php:238
+msgid "Redirect URI"
+msgstr "重定向URI"
+
+#: options/options-layouts/settings-social.php:215
+#: options/options-layouts/settings-social.php:217
+msgid "Application ID"
+msgstr "应用程序ID"
+
+#: options/options-layouts/settings-social.php:221
+#: options/options-layouts/settings-social.php:223
+msgid "Secure Key"
+msgstr "安全密钥"
+
+#: options/options-layouts/settings-social.php:230
+msgid "OK"
+msgstr "OK"
+
+#: options/options-layouts/settings-social.php:236
+msgid "Getting started with"
+msgstr "开始使用"
+
+#: options/options-layouts/settings-social.php:237
+msgid ""
+"To get the Aplication ID, Key and Secret, you should create an app using one "
+"of the supported types (external, Android, iOS), use this"
+msgstr ""
+"要获取Aplication ID, Key 和Secret，您应该使用支持的类型之一（外部，Android，"
+"iOS）创建应用程序，使用此功能"
+
+#: options/options-layouts/settings-social.php:268
+#: options/options-layouts/settings-social.php:270
+msgid "Aplication Key"
+msgstr "Aplication Key"
+
+#: options/options-layouts/settings-style.php:7
+msgid "Background and Colors"
+msgstr "背景与颜色"
+
+#: options/options-layouts/settings-style.php:12
+msgid "Comment Form and Comment List Style"
+msgstr "评论表单和评论列表样式"
+
+#: options/options-layouts/settings-style.php:16
+msgid "Default"
+msgstr "默认"
+
+#: options/options-layouts/settings-style.php:17
+msgid "Dark"
+msgstr "深色"
+
+#: options/options-layouts/settings-style.php:24
+msgid "Colors"
+msgstr "颜色"
+
+#: options/options-layouts/settings-style.php:28
+#: options/options-layouts/settings-style.php:33
+#: options/options-layouts/settings-style.php:38
+#: options/options-layouts/settings-style.php:45
+#: options/options-layouts/settings-style.php:50
+#: options/options-layouts/settings-style.php:55
+#: options/options-layouts/settings-style.php:106
+#: options/options-layouts/settings-style.php:111
+#: options/options-layouts/settings-style.php:116
+#: options/options-layouts/settings-style.php:131
+msgid "Example: #00FF00"
+msgstr "例如：#00FF00"
+
+#: options/options-layouts/settings-style.php:29
+msgid "Primary Color"
+msgstr "主色"
+
+#: options/options-layouts/settings-style.php:34
+msgid "Subscription Bar Background"
+msgstr "订阅栏背景"
+
+#: options/options-layouts/settings-style.php:39
+msgid "Comment form fields border"
+msgstr "评论表单字段边框"
+
+#: options/options-layouts/settings-style.php:46
+msgid "Comment Background"
+msgstr "评论背景"
+
+#: options/options-layouts/settings-style.php:51
+msgid "Reply Background"
+msgstr "回复背景"
+
+#: options/options-layouts/settings-style.php:56
+msgid "Unread comments background"
+msgstr "未读评论背景"
+
+#: options/options-layouts/settings-style.php:64
+msgid "Button Colors"
+msgstr "按钮颜色"
+
+#: options/options-layouts/settings-style.php:68
+#: options/options-layouts/settings-style.php:78
+msgid "Text Color"
+msgstr "文字颜色"
+
+#: options/options-layouts/settings-style.php:69
+msgid "Primary buttons text"
+msgstr "主要按钮文本"
+
+#: options/options-layouts/settings-style.php:72
+msgid "Background Color"
+msgstr "背景色"
+
+#: options/options-layouts/settings-style.php:73
+msgid "Primary buttons background"
+msgstr "主要按鈕背景"
+
+#: options/options-layouts/settings-style.php:79
+msgid "Secondary buttons text"
+msgstr "辅助按钮文本"
+
+#: options/options-layouts/settings-style.php:82
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: options/options-layouts/settings-style.php:83
+msgid "Secondary buttons border"
+msgstr "辅助按钮边框"
+
+#: options/options-layouts/settings-style.php:89
+msgid "Up Vote Color"
+msgstr "点赞投票颜色"
+
+#: options/options-layouts/settings-style.php:90
+msgid "Up vote button"
+msgstr "点赞投票按钮"
+
+#: options/options-layouts/settings-style.php:93
+msgid "Down Vote Color"
+msgstr "反对投票颜色"
+
+#: options/options-layouts/settings-style.php:94
+msgid "Down vote button"
+msgstr "反对投票按钮"
+
+#: options/options-layouts/settings-style.php:102
+msgid "Rating Star Colors"
+msgstr "评级星星颜色"
+
+#: options/options-layouts/settings-style.php:107
+msgid "Rating Stars Hover Color"
+msgstr "评级星星悬停颜色"
+
+#: options/options-layouts/settings-style.php:112
+msgid "Rating Stars Inactive Color"
+msgstr "评级星星非活动颜色"
+
+#: options/options-layouts/settings-style.php:117
+msgid "Rating Stars Active Color"
+msgstr "评级星星活跃颜色"
+
+#: options/options-layouts/settings-style.php:124
+msgid "Commenter Label Colors by User Role"
+msgstr "用户角色的评论者标签颜色"
+
+#: options/options-layouts/settings-style.php:131
+msgid "label color"
+msgstr "标签色"
+
+#: options/options-layouts/settings-style.php:143
+msgid "Comment text size in pixels"
+msgstr "评论文本的像素大小"
+
+#: options/options-layouts/settings-style.php:158
+msgid "Do not load Font Awesome css lib"
+msgstr "禁用font awesome css加载"
+
+#: options/options-layouts/settings-style.php:159
+msgid ""
+"IMPORTANT: wpDiscuz uses FontAwesome version 5. in case your theme still "
+"uses the old 4.x versions you should not disable this lib. The theme 4.x "
+"version doesn't support FontAwesome 5 icons, thus all wpDiscuz icons will be "
+"lost."
+msgstr ""
+"重要提示：wpDiscuz使用FontAwesome版本5.如果您的主题仍使用旧的4.x版本，则不应"
+"禁用此库。 主题4.x版本不支持FontAwesome 5图标，因此所有wpDiscuz图标都将丢失。"
+
+#: options/options-layouts/settings-style.php:169
+msgid "Custom CSS Code"
+msgstr "自定义CSS代码"
+
+#: options/options-layouts/settings-subscription.php:11
+msgid "Comment Subscription"
+msgstr "评论订阅"
+
+#: options/options-layouts/settings-subscription.php:15
+msgid "Notify comment author once comment is approved"
+msgstr "评论一经批准，即通知评论作者"
+
+#: options/options-layouts/settings-subscription.php:23
+msgid "Disable subscription confirmation for registered users"
+msgstr "对已注册用户禁用订阅确认"
+
+#: options/options-layouts/settings-subscription.php:33
+msgid "Disable subscription confirmation for guests"
+msgstr "对游客禁用订阅确认"
+
+#: options/options-layouts/settings-subscription.php:43
+msgid "Show subscription types in dropdown"
+msgstr "在下拉表中显示订阅类型"
+
+#: options/options-layouts/settings-subscription.php:50
+msgid "Subscribe to all comments of this post"
+msgstr "订阅此文章的所有评论"
+
+#: options/options-layouts/settings-subscription.php:54
+msgid "Subscribe to all replies to my comments "
+msgstr "订阅我的评论的所有回复 "
+
+#: options/options-layouts/settings-subscription.php:56
+#: options/options-layouts/settings-subscription.php:58
+msgid "Both"
+msgstr "两者"
+
+#: options/options-layouts/settings-subscription.php:67
+msgid "Show \"Notify of new replies to this comment\""
+msgstr "显示\"关于此评论新回复的提醒\""
+
+#: options/options-layouts/settings-subscription.php:69
+msgid ""
+"wpDiscuz is the only comment plugin which allows you to subscribe to certain "
+"comment replies. This option is located above [Post Comment] button in "
+"comment form. You can disable this subscription way by unchecking this "
+"option."
+msgstr ""
+"wpDiscuz是唯一允许您针对特定的评论订阅的评论插件。此选项在 [发表评论] 按钮前"
+"显示，您可以取消勾选、禁用此功能。"
+
+#: options/options-layouts/settings-subscription.php:80
+msgid "\"Notify of new replies to this comment\" checked by default"
+msgstr "默认勾选 \"提醒我此评论的新回复\" "
+
+#: options/options-layouts/settings-subscription.php:91
+msgid "Use Postmatic for subscriptions and commenting by email"
+msgstr "为订阅和邮箱评论使用Postmatic "
+
+#: options/options-layouts/settings-subscription.php:92
+msgid ""
+"Postmatic allows your users subscribe to comments. Instead of just being "
+"notified, they add a reply right from their inbox."
+msgstr ""
+"Postmatic允许您的用户订阅评论。比之仅仅收到提醒，他们可以在收件箱中直接回复评"
+"论。"
+
+#: options/options-layouts/settings-subscription.php:101
+msgid "User Subscription / Following"
+msgstr "用户订阅/关注"
+
+#: options/options-layouts/settings-subscription.php:106
+msgid "Enable user following feature"
+msgstr "启用用户关注功能"
+
+#: options/options-layouts/settings-subscription.php:116
+msgid "Follow users without email confirmation"
+msgstr "关注用户，无需确认电子邮件"
+
+#: options/phrases-layouts/phrases-comment.php:7
+msgid "Comment Template Phrases"
+msgstr "评论模板短语"
+
+#: options/phrases-layouts/phrases-comment.php:83
+msgid "Save edited comment button text"
+msgstr "保存编辑的评论按钮文本"
+
+#: options/phrases-layouts/phrases-comment.php:87
+msgid "Cancel comment editing button text"
+msgstr "取消评论编辑按钮文本"
+
+#: options/phrases-layouts/phrases-comment.php:91
+msgid "Comment read more link text"
+msgstr "评论阅读更多的链接文本"
+
+#: options/phrases-layouts/phrases-comment.php:95
+msgid "Anonymous commenter name"
+msgstr "匿名评论人名字"
+
+#: options/phrases-layouts/phrases-comment.php:99
+msgid "Stick button title"
+msgstr "置顶按钮标题"
+
+#: options/phrases-layouts/phrases-comment.php:111
+msgid "Sticky comment icon title"
+msgstr "已置顶的评论按钮标题"
+
+#: options/phrases-layouts/phrases-comment.php:115
+msgid "Close button title"
+msgstr "关闭按钮标题"
+
+#: options/phrases-layouts/phrases-comment.php:127
+msgid "Closed comment icon title"
+msgstr "已关闭的评论图标标题"
+
+#: options/phrases-layouts/phrases-datetime.php:7
+msgid "Date/Time Phrases"
+msgstr "日期/时间 短语"
+
+#: options/phrases-layouts/phrases-datetime.php:11
+msgid "Year"
+msgstr "年"
+
+#: options/phrases-layouts/phrases-datetime.php:15
+msgid "Years (Plural Form)"
+msgstr "年"
+
+#: options/phrases-layouts/phrases-datetime.php:19
+msgid "Month"
+msgstr "月"
+
+#: options/phrases-layouts/phrases-datetime.php:23
+msgid "Months (Plural Form)"
+msgstr "月"
+
+#: options/phrases-layouts/phrases-datetime.php:27
+msgid "Day"
+msgstr "天"
+
+#: options/phrases-layouts/phrases-datetime.php:31
+msgid "Days (Plural Form)"
+msgstr "天"
+
+#: options/phrases-layouts/phrases-datetime.php:39
+msgid "Hours (Plural Form)"
+msgstr "小时"
+
+#: options/phrases-layouts/phrases-datetime.php:47
+msgid "Minutes (Plural Form)"
+msgstr "分钟"
+
+#: options/phrases-layouts/phrases-datetime.php:51
+msgid "Second"
+msgstr "秒"
+
+#: options/phrases-layouts/phrases-datetime.php:55
+msgid "Seconds (Plural Form)"
+msgstr "秒"
+
+#: options/phrases-layouts/phrases-datetime.php:59
+msgid "Commented \"right now\" text"
+msgstr "已评论的 \"马上\" 文本"
+
+#: options/phrases-layouts/phrases-datetime.php:63
+msgid "Ago text"
+msgstr "之前文本"
+
+#: options/phrases-layouts/phrases-email.php:17
+msgid "Email Template Phrases"
+msgstr "邮件模板短语"
+
+#: options/phrases-layouts/phrases-email.php:22
+msgid "Subscription type: Post comments"
+msgstr "订阅类型：文章评论"
+
+#: options/phrases-layouts/phrases-email.php:23
+msgid "Post comment notification subject"
+msgstr "文章评论通知主题"
+
+#: options/phrases-layouts/phrases-email.php:24
+#: options/phrases-layouts/phrases-email.php:35
+#: options/phrases-layouts/phrases-email.php:56
+#: options/phrases-layouts/phrases-email.php:67
+#: options/phrases-layouts/phrases-email.php:88
+#: options/phrases-layouts/phrases-email.php:99
+#: options/phrases-layouts/phrases-email.php:118
+#: options/phrases-layouts/phrases-email.php:129
+#: options/phrases-layouts/phrases-email.php:145
+#: options/phrases-layouts/phrases-email.php:157
+#: options/phrases-layouts/phrases-follow.php:57
+#: options/phrases-layouts/phrases-follow.php:68
+#: options/phrases-layouts/phrases-follow.php:84
+#: options/phrases-layouts/phrases-follow.php:95
+#: options/phrases-layouts/phrases-user-settings.php:61
+#: options/phrases-layouts/phrases-user-settings.php:73
+#: options/phrases-layouts/phrases-user-settings.php:86
+#: options/phrases-layouts/phrases-user-settings.php:98
+#: options/phrases-layouts/phrases-user-settings.php:111
+#: options/phrases-layouts/phrases-user-settings.php:123
+msgid "Available shortcodes"
+msgstr "可用简码"
+
+#: options/phrases-layouts/phrases-email.php:34
+msgid "Post comment notification content"
+msgstr "文章评论通知内容"
+
+#: options/phrases-layouts/phrases-email.php:42
+#: options/phrases-layouts/phrases-email.php:74
+msgid "Shortcode above will work for registered users only"
+msgstr "上面的简码仅适用于注册用户"
+
+#: options/phrases-layouts/phrases-email.php:54
+msgid "Subscription type: All my comments"
+msgstr "订阅类型：我的所有评论"
+
+#: options/phrases-layouts/phrases-email.php:55
+#: options/phrases-layouts/phrases-email.php:87
+msgid "New reply notification subject"
+msgstr "新的回复通知主题"
+
+#: options/phrases-layouts/phrases-email.php:66
+#: options/phrases-layouts/phrases-email.php:98
+msgid "New Reply notification content"
+msgstr "新的回复通知内容"
+
+#: options/phrases-layouts/phrases-email.php:86
+msgid "Subscription type: Single comment"
+msgstr "订阅类型：单一评论"
+
+#: options/phrases-layouts/phrases-email.php:117
+msgid "Subscription confirmation email subject"
+msgstr "订阅确认电子邮件主题"
+
+#: options/phrases-layouts/phrases-email.php:128
+msgid "Subscription confirmation email content"
+msgstr "订阅确认电子邮件内容"
+
+#: options/phrases-layouts/phrases-email.php:144
+msgid "Comment approved subject"
+msgstr "评论批准的主题"
+
+#: options/phrases-layouts/phrases-email.php:155
+msgid "Comment approved message"
+msgstr "评论批准的消息"
+
+#: options/phrases-layouts/phrases-email.php:176
+msgid "Ignore subscription"
+msgstr "忽略订阅"
+
+#: options/phrases-layouts/phrases-error.php:7
+#: options/phrases-layouts/phrases-notification.php:7
+msgid "Notification Phrases"
+msgstr "提醒短语"
+
+#: options/phrases-layouts/phrases-error.php:11
+msgid "Error message for empty field"
+msgstr "空字段的错误消息"
+
+#: options/phrases-layouts/phrases-error.php:15
+msgid "Error message for invalid email field"
+msgstr "无效邮箱字段的错误消息"
+
+#: options/phrases-layouts/phrases-error.php:19
+msgid "Error message for invalid website url field"
+msgstr "无效URL字段的错误消息"
+
+#: options/phrases-layouts/phrases-error.php:23
+msgid "You can vote only 1 time"
+msgstr "你只能投一次"
+
+#: options/phrases-layouts/phrases-error.php:31
+msgid "You Cannot Vote On Your Comment"
+msgstr "你不能给自己的评论投票"
+
+#: options/phrases-layouts/phrases-error.php:35
+msgid "You are not allowed to vote for this comment (Voting from same IP)"
+msgstr "你不能从同一IP对此评论投票"
+
+#: options/phrases-layouts/phrases-error.php:47
+msgid "Message if input text length is too short"
+msgstr "评论内容长度过短的消息"
+
+#: options/phrases-layouts/phrases-error.php:51
+msgid "Message if input text length is too long"
+msgstr "评论内容长度过长的消息"
+
+#: options/phrases-layouts/phrases-error.php:55
+msgid "Message if comment was not updated"
+msgstr "评论未更新的消息"
+
+#: options/phrases-layouts/phrases-error.php:59
+msgid "Message if comment no longer possible to edit"
+msgstr "评论不能编辑的消息"
+
+#: options/phrases-layouts/phrases-error.php:63
+msgid "Message if comment text not changed"
+msgstr "评论内容未更改的消息"
+
+#: options/phrases-layouts/phrases-follow.php:7
+msgid "Follow Users Phrases"
+msgstr "关注用户短语"
+
+#: options/phrases-layouts/phrases-follow.php:23
+msgid "You stopped following this comment author"
+msgstr "您已停止关注此评论作者"
+
+#: options/phrases-layouts/phrases-follow.php:27
+msgid "Please check your email and confirm the follow"
+msgstr "请检查您的电子邮件并确认以下内容"
+
+#: options/phrases-layouts/phrases-follow.php:31
+msgid "Sorry, we couldn't send confirmation email"
+msgstr "抱歉，我们无法发送确认电子邮件"
+
+#: options/phrases-layouts/phrases-follow.php:35
+msgid "Please login to follow users"
+msgstr "请登录以关注用户"
+
+#: options/phrases-layouts/phrases-follow.php:39
+msgid "We are sorry, following this user is impossible"
+msgstr "很抱歉，您无法关注此用户"
+
+#: options/phrases-layouts/phrases-follow.php:43
+msgid "We are sorry, following failed. Please try again later."
+msgstr "关注失败， 请稍后再试。"
+
+#: options/phrases-layouts/phrases-follow.php:47
+msgid "Confirm following link text"
+msgstr "确认关注链接文字"
+
+#: options/phrases-layouts/phrases-follow.php:51
+msgid "Cancel following link text"
+msgstr "确认关注链接文字"
+
+#: options/phrases-layouts/phrases-follow.php:56
+msgid "Follow confirmation email subject"
+msgstr "关注确认邮件主题"
+
+#: options/phrases-layouts/phrases-follow.php:67
+msgid "Follow confirmation email content"
+msgstr "关注确认邮件内容"
+
+#: options/phrases-layouts/phrases-follow.php:83
+msgid "Following email subject"
+msgstr "关注邮件主题"
+
+#: options/phrases-layouts/phrases-follow.php:94
+msgid "Follow email content"
+msgstr "关注邮件内容"
+
+#: options/phrases-layouts/phrases-form.php:7
+msgid "Form Template Phrases"
+msgstr "表单模板短语"
+
+#: options/phrases-layouts/phrases-form.php:11
+msgid "Comment Field Start"
+msgstr "评论字段开始"
+
+#: options/phrases-layouts/phrases-form.php:15
+msgid "Comment Field Join"
+msgstr "评论字段连接"
+
+#: options/phrases-layouts/phrases-form.php:47
+msgid "Email Field"
+msgstr "邮箱字段"
+
+#: options/phrases-layouts/phrases-form.php:59
+msgid "Notify on new comments"
+msgstr "新评论的提醒"
+
+#: options/phrases-layouts/phrases-form.php:63
+msgid "Notify on all new replies"
+msgstr "新回复的提醒"
+
+#: options/phrases-layouts/phrases-form.php:67
+msgid "Notify on new replies to this comment"
+msgstr "通知对此评论的新回复"
+
+#: options/phrases-layouts/phrases-form.php:87
+msgid "Subscribed on this comment replies"
+msgstr "订阅此评论的回复"
+
+#: options/phrases-layouts/phrases-form.php:91
+msgid "Subscribed on all your comments replies"
+msgstr "有评论的回复则提醒"
+
+#: options/phrases-layouts/phrases-form.php:95
+msgid "Subscribed on this post"
+msgstr "已订阅此文章的评论"
+
+#: options/phrases-layouts/phrases-form.php:99
+msgid "Form subscription button"
+msgstr "表单订阅按钮"
+
+#: options/phrases-layouts/phrases-form.php:103
+msgid "Invisible Antispam Protection note"
+msgstr "隐形反垃圾邮件保护说明"
+
+#: options/phrases-layouts/phrases-general.php:7
+msgid "General Phrases"
+msgstr "通用短语"
+
+#: options/phrases-layouts/phrases-general.php:11
+msgid "Be the first to comment"
+msgstr "您将是第一位评论人"
+
+#: options/phrases-layouts/phrases-general.php:15
+msgid "Load More Button"
+msgstr "加载更多按钮"
+
+#: options/phrases-layouts/phrases-general.php:23
+msgid "Button text if has new comment"
+msgstr "若有新评论的按钮文本"
+
+#: options/phrases-layouts/phrases-general.php:27
+msgid "Button text if has new comments (Plural Form)"
+msgstr "若有多个新评论的按钮文本"
+
+#: options/phrases-layouts/phrases-general.php:31
+msgid "Button text if has new reply"
+msgstr "若有新回复的按钮文本"
+
+#: options/phrases-layouts/phrases-general.php:35
+msgid "Button text if has new replies (Plural Form)"
+msgstr "若有多个新回复的按钮文本"
+
+#: options/phrases-layouts/phrases-notification.php:24
+msgid "Postmatic subscription label"
+msgstr "Postmatic订阅标签"
+
+#: options/phrases-layouts/phrases-notification.php:42
+msgid "Logged In"
+msgstr "已登录"
+
+#: options/phrases-layouts/phrases-notification.php:46
+msgid "To post a comment"
+msgstr "要发表评论"
+
+#: options/phrases-layouts/phrases-notification.php:50
+msgid "Logged in as"
+msgstr "登录为"
+
+#: options/phrases-layouts/phrases-notification.php:62
+msgid "Login To Vote"
+msgstr "登录投票"
+
+#: options/phrases-layouts/phrases-notification.php:66
+msgid "Comment waiting moderation"
+msgstr "待审评论"
+
+#: options/phrases-layouts/phrases-notification.php:70
+msgid "Message if commenting disabled by user role"
+msgstr "如果该用户角色被禁止评论，则显示消息"
+
+#: options/phrases-layouts/phrases-social-login.php:15
+msgid "Social login agreement label"
+msgstr "社交登录协议标签"
+
+#: options/phrases-layouts/phrases-social-login.php:19
+msgid "Social login agreement  description"
+msgstr "社交登录协议说明"
+
+#: options/phrases-layouts/phrases-user-settings.php:7
+msgid "User Settings Phrases"
+msgstr "用户设置短语"
+
+#: options/phrases-layouts/phrases-user-settings.php:35
+msgid "\"Bulk management via email\" description"
+msgstr "“通过电子邮件批量管理”说明"
+
+#: options/phrases-layouts/phrases-user-settings.php:72
+msgid "Delete all comments email text"
+msgstr "删除所有评论电子邮件文本"
+
+#: options/phrases-layouts/phrases-user-settings.php:97
+msgid "Delete all subscriptions email text"
+msgstr "删除所有订阅电子邮件文本"
+
+#: options/phrases-layouts/phrases-user-settings.php:122
+msgid "Delete all follows email text"
+msgstr "删除所有关注电子邮件文本"
+
+#: options/tools-layouts/options-export.php:9
+msgid ""
+"Using this tool you can migrate or backup/restore wpDiscuz options from one "
+"WordPress to another."
+msgstr "使用此工具，您可以从一个wordpress迁移或备份/恢复wpDiscuz选项。"
+
+#: options/tools-layouts/options-export.php:20
+msgid "Download Options"
+msgstr "下载选项"
+
+#: options/tools-layouts/options-export.php:28
+msgid "Backup Options"
+msgstr "备份选项"
+
+#: options/tools-layouts/options-import.php:9
+msgid ""
+"Here you can import and restore wpDiscuz options. You just need to choose "
+"backup file and click import options."
+msgstr ""
+"在这里，您可以导入和恢复wpDiscuz选项。 您只需选择备份文件并单击导入选项即可。"
+
+#: options/tools-layouts/options-import.php:22
+msgid "Import Options"
+msgstr "导入选项"
+
+#: options/tools-layouts/subscriptions-import.php:11
+msgid ""
+"Using this tool you can import subscriptions from other plugins to wpDiscuz."
+msgstr "使用此工具，您可以将其他插件的订阅导入到wpDiscuz。"
+
+#: options/tools-layouts/subscriptions-import.php:19
+msgid "Import subscriptions from Subscribe To Comments Reloaded"
+msgstr "从Subscribe To Comments Reloaded导入订阅"
+
+#: options/tools-layouts/subscriptions-import.php:20
+msgid "Import subscriptions from \"Subscribe To Comments Reloaded\" plugin"
+msgstr "从“Subscribe To Comments Reloaded”插件导入订阅"
+
+#: options/tools-layouts/tools-other.php:16
+msgid "Update vote data"
+msgstr "更新投票数据"
+
+#: options/tools-layouts/tools-other.php:18
+msgid ""
+"We recommend use this tool to do one way hashing of commenter IP addresses "
+"to 32 bit strings, so you'll keep less personal information of your "
+"commenters. This tool only hashes voter IP addresses. You also can stop "
+"saving of commenter IP addresses in comments database table using this "
+"instruction "
+msgstr ""
+"我们建议使用此工具以一种方式将评论者IP地址散列为32位字符串，这样您就可以减少"
+"评论者的个人信息。 此工具仅哈希选民IP地址。 您还可以使用此指令停止在评论数据"
+"库表中保存评论者IP地址 "
+
+#: options/tools-layouts/tools-other.php:26
+msgid "Start Hashing"
+msgstr "启动匿名化"
+
+#: options/tools-layouts/tools-other.php:27
+msgid "Hash users IP addresses"
+msgstr "列出用户的IP地址"
+
+#: templates/comment/comment-form.php:63
+msgid "Your comments have been deleted from database"
+msgstr "您的评论已从数据库中删除"
+
+#: templates/comment/comment-form.php:74
+msgid "You cancel all your subscriptions successfully"
+msgstr "您已成功取消所有订阅"
+
+#: templates/comment/comment-form.php:84
+msgid "You cancel all your follows successfully"
+msgstr "您已成功取消所有关注"
+
+#: templates/comment/comment-form.php:93
+msgid "Follow has been confirmed successfully"
+msgstr "关注已成功确认关注"
+
+#: templates/comment/comment-form.php:101
+msgid "Follow has been canceled successfully"
+msgstr "关注已成功取消关注"
+
+#: templates/comment/comment-form.php:129
+msgid "Unable to send an email"
+msgstr "无法发送邮件"
+
+#: templates/comment/comment-form.php:131
+msgid "Subscription Fault"
+msgstr "订阅错误"
+
+#: utils/class.WpdiscuzHelper.php:234 utils/class.WpdiscuzHelper.php:237
+msgid "Spoiler"
+msgstr "折叠"
+
+#: utils/class.WpdiscuzHelper.php:321
+msgid "Sticky"
+msgstr "置顶"
+
+#: utils/class.WpdiscuzHelper.php:568
+msgid "Before using wpDiscuz you should update your data"
+msgstr "在使用wpDiscuz之前，您应该更新数据"
+
+#: utils/class.WpdiscuzHelper.php:569
+msgid "Go to update data"
+msgstr "转到更新数据"
+
+#: utils/deactivation-reason-modal.php:10
+msgid "Plugin Usage Feedback"
+msgstr "插件使用反馈"
+
+#: utils/deactivation-reason-modal.php:13
+msgid ""
+"Please let us know why you are deactivating. Choosing one of the options "
+"below you will help us make it better for you and for other users."
+msgstr ""
+"请告诉我们您停用的原因。 选择以下选项之一，将有助于我们为您和其他用户提供更好"
+"的选择。"
+
+#: utils/deactivation-reason-modal.php:19
+msgid "I'll reactivate it later"
+msgstr "我稍后会重新激活它"
+
+#: utils/deactivation-reason-modal.php:23
+msgid "The plugin is not working"
+msgstr "该插件无法正常工作"
+
+#: utils/deactivation-reason-modal.php:24
+msgid "What kind of problems do you have?"
+msgstr "你有什么问题？"
+
+#: utils/deactivation-reason-modal.php:28
+msgid "It's not what I was looking for"
+msgstr "这不是我想要的"
+
+#: utils/deactivation-reason-modal.php:32
+msgid "I couldn't understand how to make it work"
+msgstr "我不明白如何使它工作"
+
+#: utils/deactivation-reason-modal.php:33
+#: utils/deactivation-reason-modal.php:38
+msgid "What type of features you want to be in the plugin?"
+msgstr "您希望在插件中使用哪些类型的功能？"
+
+#: utils/deactivation-reason-modal.php:37
+msgid "The plugin is great, but I need specific features"
+msgstr "该插件很棒，但我需要特定的功能"
+
+#: utils/deactivation-reason-modal.php:42
+msgid "I didn't like plugin design"
+msgstr "我不喜欢插件设计"
+
+#: utils/deactivation-reason-modal.php:43
+msgid "What part of design you don't like or want to change?"
+msgstr "您不喜欢或想要改变的设计部分是什么？"
+
+#: utils/deactivation-reason-modal.php:47
+msgid "The plugin works very slow"
+msgstr "该插件工作非常慢"
+
+#: utils/deactivation-reason-modal.php:48
+msgid ""
+"Could you please describe which features of the plugin slows down your "
+"website?"
+msgstr "您能否描述一下插件的哪些功能会降低您的网站速度？"
+
+#: utils/deactivation-reason-modal.php:52
+msgid "I found a better plugin"
+msgstr "我找到了一个更好的插件"
+
+#: utils/deactivation-reason-modal.php:53
+msgid "Please provide a plugin name or URL"
+msgstr "请提供插件名称或URL"
+
+#: utils/deactivation-reason-modal.php:62
+msgid "Dismiss and never show again"
+msgstr "忽略并不再提示"
+
+#: utils/deactivation-reason-modal.php:63
+msgid "Submit &amp; Deactivate"
+msgstr "提交并停用"
+
+#: utils/deactivation-reason-modal.php:66
+msgid "Thank you for your feedback!"
+msgstr "感谢您的反馈意见！"
+
+#: utils/layouts/activity/item.php:28
+msgid "Delete this comment"
+msgstr "删除此评论"
+
+#: utils/layouts/follows/item.php:14
+msgid "Cancel this follow"
+msgstr "取消此关注"
+
+#: utils/layouts/pagination.php:22
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: utils/layouts/pagination.php:28
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: utils/layouts/pagination.php:52
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: utils/layouts/subscriptions/item.php:23
+msgid "Cancel this subscription"
+msgstr "取消此订阅"
+
+#. Plugin Name of the plugin/theme
+msgid "wpDiscuz"
+msgstr "wpDiscuz"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpdiscuz.com/"
+msgstr "http://wpdiscuz.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Better comment system. Wordpress post comments and discussion plugin. Allows "
+"your visitors discuss, vote for comments and share."
+msgstr ""
+"更好的评论系统。Wordpress评论与讨论插件。允许访客评论、讨论、投票与分享。由 "
+"WordPress大学 https://www.wpdaxue.com 提供简体中文支持。"
+
+#. Author of the plugin/theme
+msgid "gVectors Team (A. Chakhoyan, G. Zakaryan, H. Martirosyan)"
+msgstr "gVectors Team (A. Chakhoyan, G. Zakaryan, H. Martirosyan)"
+
+#. Author URI of the plugin/theme
+msgid "https://gvectors.com/"
+msgstr "https://gvectors.com/"
+
+#~ msgid ""
+#~ "Allows censoring comment words. Filters comments and replaces those "
+#~ "phrases with custom words."
+#~ msgstr "允许审查评论字段。过滤评论中的短语且替换为自定义字段"
+
+#~ msgid "New Addons are available for wpDiscuz Comments Plugin"
+#~ msgstr "wpDiscuz评论插件有新附加组件"
+
+#~ msgid "on"
+#~ msgstr "在"
+
+#~ msgid "Show Replies"
+#~ msgstr "显示回复"
+
+#~ msgid "New comment on the discussion section you've been interested in"
+#~ msgstr "您感兴趣的讨论区中的新评论"
+
+#~ msgid "New reply on the discussion section you've been interested in"
+#~ msgstr "您感兴趣的讨论区中的新回复"
+
+#~ msgid "Today"
+#~ msgstr "今天"
+
+#~ msgid "New"
+#~ msgstr "新的"
+
+#~ msgid "Addon Details | Buy"
+#~ msgstr "附加组件详情 | 购买"
+
+#~ msgid "Show/Hide"
+#~ msgstr "显示/隐藏"
+
+#~ msgid "Comment author must fill out email"
+#~ msgstr "评论人须填写邮箱"
+
+#~ msgid "Comment author must fill out name"
+#~ msgstr "评论人须填写名字"
+
+#~ msgid "Hide Reply button for Members"
+#~ msgstr "为成员隐藏回复按钮"
+
+#~ msgid ""
+#~ "The plugin captcha directory is not writable! Please set writable "
+#~ "permissions on \"wpdiscuz/utils/temp\" directory in order to use the "
+#~ "first type of captcha generation"
+#~ msgstr ""
+#~ "插件的验证码目录不可写！请为\"wpdiscuz/utils/temp\" 目录设置可写权限，您方"
+#~ "可使用验证码自动生成功能"
+
+#~ msgid "use wordpress session"
+#~ msgstr "使用WordPress会话"
+
+#~ msgid "Hide the CAPTCHA field for guests"
+#~ msgstr "为游客隐藏验证码"
+
+#~ msgid "Show the Website URL field"
+#~ msgstr "显示网站URL字段"
+
+#~ msgid "View details/Install"
+#~ msgstr "显示细节/安装"
+
+#~ msgid ""
+#~ "You can use one of these most popular Social Login Plugins to allow your "
+#~ "visitors login and comment with Facebook, Twitter, Google+, Wordpress, "
+#~ "VK, OK and lots of other social network service accounts. All social "
+#~ "login buttons will be fully integrated with wpDiscuz comment forms."
+#~ msgstr ""
+#~ "您可以启用社交登陆功能，支持Facebook, Twitter, Google+, Wordpress, VK, 等"
+#~ "等。所有社交登录按钮都可无缝集成至wpDiscuz评论表单。"
+
+#~ msgid "Vote, Reply, Share, Edit links text colors"
+#~ msgstr "投票，回复，分享，编辑链接文本色"
+
+#~ msgid ""
+#~ "This bar provides two subscription options: notify of \"new follow-up "
+#~ "comments\" and \"new replies to my comments\""
+#~ msgstr "此横条支持两个订阅选项：提醒 \"新跟进的评论\" 和 \"我评论的新回复\""
+
+#~ msgid "Both post and all comments subscription"
+#~ msgstr "文章以及所有评论订阅"
+
+#~ msgid "\"Today\" text"
+#~ msgstr "\"今天\" 文本"
+
+#~ msgid "Email Message"
+#~ msgstr "邮件消息"
+
+#~ msgid "New Reply Message"
+#~ msgstr "新回复消息"
+
+#~ msgid "WebSite URL Field"
+#~ msgstr "站点字段"
+
+#~ msgid "Notify on new replies (checkbox)"
+#~ msgstr "新回复提醒（勾选）"
+
+#~ msgid "On"
+#~ msgstr "开启"
+
+#~ msgid "New Comments"
+#~ msgstr "新评论"
+
+#~ msgid "Text on load more button if has new comment(s)"
+#~ msgstr "若有新评论，在加载更多按钮上的文本"
+
+#~ msgid "You\\'re subscribed to"
+#~ msgstr "您已订阅至"
+
+#~ msgid "TYou've not made any changes"
+#~ msgstr "您没有做出任何变更"
+
+#~ msgid "wpDiscuz - supercharged native comments"
+#~ msgstr "wpDiscuz - 超能原生评论"

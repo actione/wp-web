@@ -1,5 +1,7 @@
 <?php
 
+use ParagonIE\Sodium\Core\Curve25519\H;
+
   get_header();
 
   while(have_posts()) {

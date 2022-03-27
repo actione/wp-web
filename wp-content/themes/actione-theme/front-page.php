@@ -1,16 +1,13 @@
 <?php get_header(); ?>
 
   <div class="page-banner">
-  <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/library-hero.jpg') ?>);"></div>
+  <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/main_background.jpg') ?>);"></div>
     <div class="page-banner__content container t-center c-white">
-      <h1 class="headline headline--large">Welcome!</h1>
-      <h2 class="headline headline--medium">I think you&rsquo;ll like it here.</h2>
-      <!-- <a href="<?php echo get_post_type_archive_link('program'); ?>" class="btn btn--large btn--blue">Find Your Major</a> -->
+      <h2 class="headline headline--medium">这是我的最新博客</h2>
     </div>
   </div>
   
-  <div>
-    <h2 class="headline headline--small-plus t-center">最新的文章</h2>
+  <div style="margin-top:25px;">
     <?php
       $homepagePosts = new WP_Query(array(
         'posts_per_page' => 8
@@ -34,10 +31,6 @@
         </div>
       <?php } wp_reset_postdata();
     ?> 
-
-    
-    
-    
     <p class="t-center no-margin"><a href="<?php echo site_url('/blog'); ?>" class="btn btn--yellow">View All Blog Posts</a></p>
   </div>
   <?php get_footer();

@@ -14,7 +14,7 @@
       <div class="site-header__menu group">
         <nav class="main-navigation">
           <ul id="menu">
-            <li <?php if (is_page('个人空间')) echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/个人空间') ?>">个人空间</a></li>
+            <li <?php if (is_page('个人空间')) echo 'class="current-menu-item"' ?>><a href="<?php echo site_url('/me') ?>">个人空间</a></li>
             <li> <a href="#">机器学习</a>
               <ul>
                 <li><a href="<?php echo site_url('/tensor') ?>">张量</a></li>

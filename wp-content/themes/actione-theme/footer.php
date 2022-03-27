@@ -27,7 +27,7 @@
         <div class="site-footer__col-four">
             <ul>
               <li><a><strong>想要我微信号？</strong></a></li>
-              <li><a>fgjfdhnbhgghvcvhjjj</a></li>
+              <li><img src=<?php echo get_theme_file_uri('/images/friend.jpg'); ?> alt="Italian Trulli" style="width:100px;height:100px;"></li>
             </ul>
         </div>
       </div>
